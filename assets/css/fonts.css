@@ -1,0 +1,17 @@
+@import url(https://fonts.googleapis.com/css?family=La+Belle+Aurore);
+@font-face {
+  font-family: 'DOTMATRI';
+  src: url("/miniatures/assets/css/fonts/DOTMATRI.eot");
+  src: local("DOTMATRI"), url("/miniatures/assets/css/fonts/DOTMATRI.woff") format("woff"), url("/miniatures/assets/css/fonts/DOTMATRI.ttf") format("truetype"); }
+@font-face {
+  font-family: 'TELETYPE 1945-1985';
+  src: url("/miniatures/assets/css/fonts/TELETYPE1945-1985.eot");
+  src: url("/miniatures/assets/css/fonts/TELETYPE1945-1985.eot?#iefix") format("embedded-opentype"), url("/miniatures/assets/css/fonts/TELETYPE1945-1985.woff2") format("woff2"), url("/miniatures/assets/css/fonts/TELETYPE1945-1985.woff") format("woff"), url("/miniatures/assets/css/fonts/TELETYPE1945-1985.svg#TELETYPE1945-1985") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+@font-face {
+  font-family: 'futuraLightAngled';
+  src: url("/miniatures/assets/css/fonts/futuraLightAngled.eot");
+  src: url("/miniatures/assets/css/fonts/futuraLightAngled.eot?#iefix") format("embedded-opentype"), url("/miniatures/assets/css/fonts/futuraLightAngled.woff2") format("woff2"), url("/miniatures/assets/css/fonts/futuraLightAngled.woff") format("woff"), url("/miniatures/assets/css/fonts/futuraLightAngled.svg#futuraLightAngled") format("svg");
+  font-weight: 300;
+  font-style: normal; }
