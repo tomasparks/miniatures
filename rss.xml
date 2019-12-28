@@ -1,0 +1,3338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+<channel>
+	<title>Tom Sparks's miniatures section</title>
+	<link>https://tomasparks.name/miniatures/</link>
+	<description></description>
+	<lastBuildDate></lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+		<generator>jekyll</generator>
+	<itunes:new-feed-url>https://tomasparks.name/miniatures/rss.xml</itunes:new-feed-url>
+	<itunes:summary><![CDATA[]]></itunes:summary>
+	<itunes:author>Tom Sparks</itunes:author>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:image href="" />
+	<itunes:type>episodic</itunes:type>
+	<itunes:owner>
+		<itunes:name>Tom Sparks</itunes:name>
+		<itunes:email></itunes:email>
+	</itunes:owner>
+	<managingEditor> (Tom Sparks)</managingEditor>
+	<copyright></copyright>
+	<itunes:subtitle></itunes:subtitle>
+	<image>
+		<title>Tom Sparks's miniatures section</title>
+		<url></url>
+		<link>https://tomasparks.name/miniatures/</link>
+	</image>
+	<itunes:category text="Technology">
+		<itunes:category text="Podcasting" />
+	</itunes:category>
+	<itunes:category text="Business">
+		<itunes:category text="Management &amp; Marketing" />
+	</itunes:category>
+	<itunes:category text="Technology">
+		<itunes:category text="Software How-To" />
+	</itunes:category>
+	<rawvoice:rating>TV-G</rawvoice:rating>
+	<rawvoice:location></rawvoice:location>
+	<rawvoice:frequency>Weekly</rawvoice:frequency>
+	<rawvoice:subscribe feed="https://tomasparks.name/miniatures/rss.xml" />
+	<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://tomasparks.name/miniatures/rss.xml" />
+	<feedburner:info uri="theaudacitytopodcast-mp3" />
+	<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" />
+
+ 
+ 
+
+    
+    <item>
+		<title>Decoupage Diorama</title>
+		<link>https://tomasparks.name/miniatures/build-log/decoupage-diorama/2018/08/01/decoupage-diorama.html</link>
+		<pubDate>Wed, 01 Aug 2018 00:00:00 +1000</pubDate>
+		<guid isPermaLink="false">https://tomasparks.name/miniatures/build-log/decoupage-diorama/2018/08/01/decoupage-diorama.html</guid>
+		<description>
+</description>
+		<content:encoded><![CDATA[
+]]></content:encoded>
+   <enclosure url="{}-480p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-576p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-720p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-1800p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-480p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-576p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-720p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-1800p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   		<itunes:subtitle>
+</itunes:subtitle>
+		<itunes:summary><![CDATA[
+]]></itunes:summary>
+		<itunes:author>Tom Sparks</itunes:author>
+		<itunes:image href="" />
+		<itunes:episode></itunes:episode>
+		<itunes:title>Decoupage Diorama</itunes:title>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration></itunes:duration>
+		<feedburner:origLink>https://tomasparks.name/miniatures/build-log/decoupage-diorama/2018/08/01/decoupage-diorama.html</feedburner:origLink>
+		</item>
+
+
+
+    <item>
+		<title>Diorama</title>
+		<link>https://tomasparks.name/miniatures/build-log/diorama/2018/08/01/diorama.html</link>
+		<pubDate>Wed, 01 Aug 2018 00:00:00 +1000</pubDate>
+		<guid isPermaLink="false">https://tomasparks.name/miniatures/build-log/diorama/2018/08/01/diorama.html</guid>
+		<description>
+</description>
+		<content:encoded><![CDATA[
+]]></content:encoded>
+   <enclosure url="{}-480p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-576p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-720p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-1800p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-480p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-576p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-720p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-1800p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   		<itunes:subtitle>
+</itunes:subtitle>
+		<itunes:summary><![CDATA[
+]]></itunes:summary>
+		<itunes:author>Tom Sparks</itunes:author>
+		<itunes:image href="" />
+		<itunes:episode></itunes:episode>
+		<itunes:title>Diorama</itunes:title>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration></itunes:duration>
+		<feedburner:origLink>https://tomasparks.name/miniatures/build-log/diorama/2018/08/01/diorama.html</feedburner:origLink>
+		</item>
+
+
+
+    <item>
+		<title>retrofuturism idea</title>
+		<link>https://tomasparks.name/miniatures/build-log/diorama/retrofuturism/2018/08/06/retrofuturism-idea.html</link>
+		<pubDate>Mon, 06 Aug 2018 00:00:00 +1000</pubDate>
+		<guid isPermaLink="false">https://tomasparks.name/miniatures/build-log/diorama/retrofuturism/2018/08/06/retrofuturism-idea.html</guid>
+		<description>
+</description>
+		<content:encoded><![CDATA[
+]]></content:encoded>
+   <enclosure url="{}-480p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-576p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-720p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-1800p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-480p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-576p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-720p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-1800p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   		<itunes:subtitle>
+</itunes:subtitle>
+		<itunes:summary><![CDATA[
+]]></itunes:summary>
+		<itunes:author>Tom Sparks</itunes:author>
+		<itunes:image href="" />
+		<itunes:episode></itunes:episode>
+		<itunes:title>retrofuturism idea</itunes:title>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration></itunes:duration>
+		<feedburner:origLink>https://tomasparks.name/miniatures/build-log/diorama/retrofuturism/2018/08/06/retrofuturism-idea.html</feedburner:origLink>
+		</item>
+
+
+
+    <item>
+		<title>steampunk idea</title>
+		<link>https://tomasparks.name/miniatures/build-log/diorama/steampunk/2018/08/06/steampunk-idea.html</link>
+		<pubDate>Mon, 06 Aug 2018 00:00:00 +1000</pubDate>
+		<guid isPermaLink="false">https://tomasparks.name/miniatures/build-log/diorama/steampunk/2018/08/06/steampunk-idea.html</guid>
+		<description>
+</description>
+		<content:encoded><![CDATA[
+]]></content:encoded>
+   <enclosure url="{}-480p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-576p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-720p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-1800p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-480p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-576p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-720p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-1800p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   		<itunes:subtitle>
+</itunes:subtitle>
+		<itunes:summary><![CDATA[
+]]></itunes:summary>
+		<itunes:author>Tom Sparks</itunes:author>
+		<itunes:image href="" />
+		<itunes:episode></itunes:episode>
+		<itunes:title>steampunk idea</itunes:title>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration></itunes:duration>
+		<feedburner:origLink>https://tomasparks.name/miniatures/build-log/diorama/steampunk/2018/08/06/steampunk-idea.html</feedburner:origLink>
+		</item>
+
+
+
+    <item>
+		<title>pirate island idea</title>
+		<link>https://tomasparks.name/miniatures/build-log/diorama/pirate-island/2018/09/26/pirate-island-idea.html</link>
+		<pubDate>Wed, 26 Sep 2018 00:00:00 +1000</pubDate>
+		<guid isPermaLink="false">https://tomasparks.name/miniatures/build-log/diorama/pirate-island/2018/09/26/pirate-island-idea.html</guid>
+		<description>
+</description>
+		<content:encoded><![CDATA[
+]]></content:encoded>
+   <enclosure url="{}-480p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-576p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-720p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-1800p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-480p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-576p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-720p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-1800p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   		<itunes:subtitle>
+</itunes:subtitle>
+		<itunes:summary><![CDATA[
+]]></itunes:summary>
+		<itunes:author>Tom Sparks</itunes:author>
+		<itunes:image href="" />
+		<itunes:episode></itunes:episode>
+		<itunes:title>pirate island idea</itunes:title>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration></itunes:duration>
+		<feedburner:origLink>https://tomasparks.name/miniatures/build-log/diorama/pirate-island/2018/09/26/pirate-island-idea.html</feedburner:origLink>
+		</item>
+
+
+
+    <item>
+		<title>Work-area</title>
+		<link>https://tomasparks.name/miniatures/build-log/work-area/2018/10/01/work-area.html</link>
+		<pubDate>Mon, 01 Oct 2018 00:00:00 +1000</pubDate>
+		<guid isPermaLink="false">https://tomasparks.name/miniatures/build-log/work-area/2018/10/01/work-area.html</guid>
+		<description>
+</description>
+		<content:encoded><![CDATA[
+]]></content:encoded>
+   <enclosure url="{}-480p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-576p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-720p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-1800p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-480p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-576p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-720p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-1800p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   		<itunes:subtitle>
+</itunes:subtitle>
+		<itunes:summary><![CDATA[
+]]></itunes:summary>
+		<itunes:author>Tom Sparks</itunes:author>
+		<itunes:image href="" />
+		<itunes:episode></itunes:episode>
+		<itunes:title>Work-area</itunes:title>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration></itunes:duration>
+		<feedburner:origLink>https://tomasparks.name/miniatures/build-log/work-area/2018/10/01/work-area.html</feedburner:origLink>
+		</item>
+
+
+
+    <item>
+		<title>Camera-Rig</title>
+		<link>https://tomasparks.name/miniatures/build-log/work-area/camera-rig/2018/10/08/camera-rig.html</link>
+		<pubDate>Mon, 08 Oct 2018 00:00:00 +1000</pubDate>
+		<guid isPermaLink="false">https://tomasparks.name/miniatures/build-log/work-area/camera-rig/2018/10/08/camera-rig.html</guid>
+		<description><p>see <a href="/miniatures/notebook/2018/10/streetview-diorama.html">Creating a Streetview for Dioramas</a></p>
+</description>
+		<content:encoded><![CDATA[<p>see <a href="/miniatures/notebook/2018/10/streetview-diorama.html">Creating a Streetview for Dioramas</a></p>
+]]></content:encoded>
+   <enclosure url="{}-480p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-576p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-720p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-1800p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-480p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-576p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-720p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-1800p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   		<itunes:subtitle><p>see <a href="/miniatures/notebook/2018/10/streetview-diorama.html">Creating a Streetview for Dioramas</a></p>
+</itunes:subtitle>
+		<itunes:summary><![CDATA[<p>see <a href="/miniatures/notebook/2018/10/streetview-diorama.html">Creating a Streetview for Dioramas</a></p>
+]]></itunes:summary>
+		<itunes:author>Tom Sparks</itunes:author>
+		<itunes:image href="" />
+		<itunes:episode></itunes:episode>
+		<itunes:title>Camera-Rig</itunes:title>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration></itunes:duration>
+		<feedburner:origLink>https://tomasparks.name/miniatures/build-log/work-area/camera-rig/2018/10/08/camera-rig.html</feedburner:origLink>
+		</item>
+
+
+
+    <item>
+		<title>Camera-Rig software</title>
+		<link>https://tomasparks.name/miniatures/build-log/work-area/camera-rig/icg-software/2018/11/10/camera-rig-software.html</link>
+		<pubDate>Sat, 10 Nov 2018 00:00:00 +1000</pubDate>
+		<guid isPermaLink="false">https://tomasparks.name/miniatures/build-log/work-area/camera-rig/icg-software/2018/11/10/camera-rig-software.html</guid>
+		<description><p>see <a href="/miniatures/notebook/2018/11/streetview-diorama-update.html">Creating a Streetview for Dioramas UPDATE</a></p>
+</description>
+		<content:encoded><![CDATA[<p>see <a href="/miniatures/notebook/2018/11/streetview-diorama-update.html">Creating a Streetview for Dioramas UPDATE</a></p>
+]]></content:encoded>
+   <enclosure url="{}-480p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-576p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-720p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-1800p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-480p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-576p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-720p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-1800p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   		<itunes:subtitle><p>see <a href="/miniatures/notebook/2018/11/streetview-diorama-update.html">Creating a Streetview for Dioramas UPDATE</a></p>
+</itunes:subtitle>
+		<itunes:summary><![CDATA[<p>see <a href="/miniatures/notebook/2018/11/streetview-diorama-update.html">Creating a Streetview for Dioramas UPDATE</a></p>
+]]></itunes:summary>
+		<itunes:author>Tom Sparks</itunes:author>
+		<itunes:image href="" />
+		<itunes:episode></itunes:episode>
+		<itunes:title>Camera-Rig software</itunes:title>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration></itunes:duration>
+		<feedburner:origLink>https://tomasparks.name/miniatures/build-log/work-area/camera-rig/icg-software/2018/11/10/camera-rig-software.html</feedburner:origLink>
+		</item>
+
+
+
+    <item>
+		<title>Birth of website</title>
+		<link>https://tomasparks.name/miniatures/build-log/website/2018/11/19/birth-of-website.html</link>
+		<pubDate>Mon, 19 Nov 2018 20:05:11 +1000</pubDate>
+		<guid isPermaLink="false">https://tomasparks.name/miniatures/build-log/website/2018/11/19/birth-of-website.html</guid>
+		<description><p>Birth of Website <a href="https://github.com/tomasparks/miniatures-src/">souce code</a></p>
+</description>
+		<content:encoded><![CDATA[<p>Birth of Website <a href="https://github.com/tomasparks/miniatures-src/">souce code</a></p>
+]]></content:encoded>
+   <enclosure url="{}-480p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-576p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-720p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-1800p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-480p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-576p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-720p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-1800p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   		<itunes:subtitle><p>Birth of Website <a href="https://github.com/tomasparks/miniatures-src/">souce code</a></p>
+</itunes:subtitle>
+		<itunes:summary><![CDATA[<p>Birth of Website <a href="https://github.com/tomasparks/miniatures-src/">souce code</a></p>
+]]></itunes:summary>
+		<itunes:author>Tom Sparks</itunes:author>
+		<itunes:image href="" />
+		<itunes:episode></itunes:episode>
+		<itunes:title>Birth of website</itunes:title>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration></itunes:duration>
+		<feedburner:origLink>https://tomasparks.name/miniatures/build-log/website/2018/11/19/birth-of-website.html</feedburner:origLink>
+		</item>
+
+
+
+    <item>
+		<title>Camera-Rig Redesgin</title>
+		<link>https://tomasparks.name/miniatures/build-log/work-area/camera-rig/2018/11/27/camera-rig-redesgin.html</link>
+		<pubDate>Tue, 27 Nov 2018 00:00:00 +1000</pubDate>
+		<guid isPermaLink="false">https://tomasparks.name/miniatures/build-log/work-area/camera-rig/2018/11/27/camera-rig-redesgin.html</guid>
+		<description><p>see <a href="/miniatures/notebook/2018/11/endoscope-camera-rig.html">Endoscope Camera Rig</a></p>
+</description>
+		<content:encoded><![CDATA[<p>see <a href="/miniatures/notebook/2018/11/endoscope-camera-rig.html">Endoscope Camera Rig</a></p>
+]]></content:encoded>
+   <enclosure url="{}-480p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-576p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-720p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-1800p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-480p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-576p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-720p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-1800p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   		<itunes:subtitle><p>see <a href="/miniatures/notebook/2018/11/endoscope-camera-rig.html">Endoscope Camera Rig</a></p>
+</itunes:subtitle>
+		<itunes:summary><![CDATA[<p>see <a href="/miniatures/notebook/2018/11/endoscope-camera-rig.html">Endoscope Camera Rig</a></p>
+]]></itunes:summary>
+		<itunes:author>Tom Sparks</itunes:author>
+		<itunes:image href="" />
+		<itunes:episode></itunes:episode>
+		<itunes:title>Camera-Rig Redesgin</itunes:title>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration></itunes:duration>
+		<feedburner:origLink>https://tomasparks.name/miniatures/build-log/work-area/camera-rig/2018/11/27/camera-rig-redesgin.html</feedburner:origLink>
+		</item>
+
+
+
+    <item>
+		<title>Software</title>
+		<link>https://tomasparks.name/miniatures/build-log/work-area/software/2018/12/23/software.html</link>
+		<pubDate>Sun, 23 Dec 2018 00:00:00 +1000</pubDate>
+		<guid isPermaLink="false">https://tomasparks.name/miniatures/build-log/work-area/software/2018/12/23/software.html</guid>
+		<description><ul>
+  <li><a href="https://krpano.com/">krpano</a></li>
+  <li><a href="https://www.tamasoft.co.jp/pepakura-en/">Pepakura Designer 4</a></li>
+</ul>
+</description>
+		<content:encoded><![CDATA[<ul>
+  <li><a href="https://krpano.com/">krpano</a></li>
+  <li><a href="https://www.tamasoft.co.jp/pepakura-en/">Pepakura Designer 4</a></li>
+</ul>
+]]></content:encoded>
+   <enclosure url="{}-480p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-576p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-720p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-1800p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-480p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-576p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-720p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-1800p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   		<itunes:subtitle><ul>
+  <li><a href="https://krpano.com/">krpano</a></li>
+  <li><a href="https://www.tamasoft.co.jp/pepakura-en/">Pepakura Designer 4</a></li>
+</ul>
+</itunes:subtitle>
+		<itunes:summary><![CDATA[<ul>
+  <li><a href="https://krpano.com/">krpano</a></li>
+  <li><a href="https://www.tamasoft.co.jp/pepakura-en/">Pepakura Designer 4</a></li>
+</ul>
+]]></itunes:summary>
+		<itunes:author>Tom Sparks</itunes:author>
+		<itunes:image href="" />
+		<itunes:episode></itunes:episode>
+		<itunes:title>Software</itunes:title>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration></itunes:duration>
+		<feedburner:origLink>https://tomasparks.name/miniatures/build-log/work-area/software/2018/12/23/software.html</feedburner:origLink>
+		</item>
+
+
+
+    <item>
+		<title>krpano</title>
+		<link>https://tomasparks.name/miniatures/build-log/work-area/software/krpano/2018/12/24/krpano.html</link>
+		<pubDate>Mon, 24 Dec 2018 00:00:00 +1000</pubDate>
+		<guid isPermaLink="false">https://tomasparks.name/miniatures/build-log/work-area/software/krpano/2018/12/24/krpano.html</guid>
+		<description>
+</description>
+		<content:encoded><![CDATA[
+]]></content:encoded>
+   <enclosure url="{}-480p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-576p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-720p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-1800p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-480p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-576p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-720p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-1800p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   		<itunes:subtitle>
+</itunes:subtitle>
+		<itunes:summary><![CDATA[
+]]></itunes:summary>
+		<itunes:author>Tom Sparks</itunes:author>
+		<itunes:image href="" />
+		<itunes:episode></itunes:episode>
+		<itunes:title>krpano</itunes:title>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration></itunes:duration>
+		<feedburner:origLink>https://tomasparks.name/miniatures/build-log/work-area/software/krpano/2018/12/24/krpano.html</feedburner:origLink>
+		</item>
+
+
+
+    <item>
+		<title>krpano-examples</title>
+		<link>https://tomasparks.name/miniatures/build-log/work-area/software/krpano/krpano-examples/2018/12/25/krpano-examples.html</link>
+		<pubDate>Tue, 25 Dec 2018 00:00:00 +1000</pubDate>
+		<guid isPermaLink="false">https://tomasparks.name/miniatures/build-log/work-area/software/krpano/krpano-examples/2018/12/25/krpano-examples.html</guid>
+		<description>
+</description>
+		<content:encoded><![CDATA[
+]]></content:encoded>
+   <enclosure url="{}-480p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-576p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-720p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-1800p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-480p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-576p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-720p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-1800p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   		<itunes:subtitle>
+</itunes:subtitle>
+		<itunes:summary><![CDATA[
+]]></itunes:summary>
+		<itunes:author>Tom Sparks</itunes:author>
+		<itunes:image href="" />
+		<itunes:episode></itunes:episode>
+		<itunes:title>krpano-examples</itunes:title>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration></itunes:duration>
+		<feedburner:origLink>https://tomasparks.name/miniatures/build-log/work-area/software/krpano/krpano-examples/2018/12/25/krpano-examples.html</feedburner:origLink>
+		</item>
+
+
+
+    <item>
+		<title>krpano-viewer</title>
+		<link>https://tomasparks.name/miniatures/build-log/work-area/software/krpano/krpano-viewer/2018/12/25/krpano-viewer.html</link>
+		<pubDate>Tue, 25 Dec 2018 00:00:00 +1000</pubDate>
+		<guid isPermaLink="false">https://tomasparks.name/miniatures/build-log/work-area/software/krpano/krpano-viewer/2018/12/25/krpano-viewer.html</guid>
+		<description>
+</description>
+		<content:encoded><![CDATA[
+]]></content:encoded>
+   <enclosure url="{}-480p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-576p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-720p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-1800p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-480p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-576p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-720p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-1800p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   		<itunes:subtitle>
+</itunes:subtitle>
+		<itunes:summary><![CDATA[
+]]></itunes:summary>
+		<itunes:author>Tom Sparks</itunes:author>
+		<itunes:image href="" />
+		<itunes:episode></itunes:episode>
+		<itunes:title>krpano-viewer</itunes:title>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration></itunes:duration>
+		<feedburner:origLink>https://tomasparks.name/miniatures/build-log/work-area/software/krpano/krpano-viewer/2018/12/25/krpano-viewer.html</feedburner:origLink>
+		</item>
+
+
+
+    <item>
+		<title>krpano-tools</title>
+		<link>https://tomasparks.name/miniatures/build-log/work-area/software/krpano/krpano-tools/2018/12/25/krpano-tools.html</link>
+		<pubDate>Tue, 25 Dec 2018 00:00:00 +1000</pubDate>
+		<guid isPermaLink="false">https://tomasparks.name/miniatures/build-log/work-area/software/krpano/krpano-tools/2018/12/25/krpano-tools.html</guid>
+		<description>
+</description>
+		<content:encoded><![CDATA[
+]]></content:encoded>
+   <enclosure url="{}-480p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-576p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-720p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-1800p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-480p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-576p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-720p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-1800p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   		<itunes:subtitle>
+</itunes:subtitle>
+		<itunes:summary><![CDATA[
+]]></itunes:summary>
+		<itunes:author>Tom Sparks</itunes:author>
+		<itunes:image href="" />
+		<itunes:episode></itunes:episode>
+		<itunes:title>krpano-tools</itunes:title>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration></itunes:duration>
+		<feedburner:origLink>https://tomasparks.name/miniatures/build-log/work-area/software/krpano/krpano-tools/2018/12/25/krpano-tools.html</feedburner:origLink>
+		</item>
+
+
+
+    <item>
+		<title>merge to website</title>
+		<link>https://tomasparks.name/miniatures/build-log/work-area/software/krpano/krpano-viewer/2018/12/26/merge-to-website.html</link>
+		<pubDate>Wed, 26 Dec 2018 00:00:00 +1000</pubDate>
+		<guid isPermaLink="false">https://tomasparks.name/miniatures/build-log/work-area/software/krpano/krpano-viewer/2018/12/26/merge-to-website.html</guid>
+		<description>
+</description>
+		<content:encoded><![CDATA[
+]]></content:encoded>
+   <enclosure url="{}-480p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-576p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-720p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-1800p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-480p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-576p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-720p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-1800p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   		<itunes:subtitle>
+</itunes:subtitle>
+		<itunes:summary><![CDATA[
+]]></itunes:summary>
+		<itunes:author>Tom Sparks</itunes:author>
+		<itunes:image href="" />
+		<itunes:episode></itunes:episode>
+		<itunes:title>merge to website</itunes:title>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration></itunes:duration>
+		<feedburner:origLink>https://tomasparks.name/miniatures/build-log/work-area/software/krpano/krpano-viewer/2018/12/26/merge-to-website.html</feedburner:origLink>
+		</item>
+
+
+
+    <item>
+		<title>Imperial City</title>
+		<link>https://tomasparks.name/miniatures/build-log/diorama/imperial-city/2018/12/28/ImperialCity.html</link>
+		<pubDate>Fri, 28 Dec 2018 00:00:00 +1000</pubDate>
+		<guid isPermaLink="false">https://tomasparks.name/miniatures/build-log/diorama/imperial-city/2018/12/28/ImperialCity.html</guid>
+		<description><p>After rewatching @LGR’s reviews on <a href="https://en.wikipedia.org/wiki/The_Elder_Scrolls">Elder scrolls</a> Video game series.
+I liked the look of The <a href="https://en.uesp.net/wiki/Oblivion:The_Imperial_City">Imperial City</a> featured in <a href="https://en.wikipedia.org/wiki/The_Elder_Scrolls_IV:_Oblivion">Elder Scrolls IV: Oblivion</a>.</p>
+</description>
+		<content:encoded><![CDATA[<p>After rewatching @LGR’s reviews on <a href="https://en.wikipedia.org/wiki/The_Elder_Scrolls">Elder scrolls</a> Video game series.
+I liked the look of The <a href="https://en.uesp.net/wiki/Oblivion:The_Imperial_City">Imperial City</a> featured in <a href="https://en.wikipedia.org/wiki/The_Elder_Scrolls_IV:_Oblivion">Elder Scrolls IV: Oblivion</a>.</p>
+]]></content:encoded>
+   <enclosure url="{}-480p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-576p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-720p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-1800p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-480p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-576p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-720p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-1800p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   		<itunes:subtitle><p>After rewatching @LGR’s reviews on <a href="https://en.wikipedia.org/wiki/The_Elder_Scrolls">Elder scrolls</a> Video game series.
+I liked the look of The <a href="https://en.uesp.net/wiki/Oblivion:The_Imperial_City">Imperial City</a> featured in <a href="https://en.wikipedia.org/wiki/The_Elder_Scrolls_IV:_Oblivion">Elder Scrolls IV: Oblivion</a>.</p>
+</itunes:subtitle>
+		<itunes:summary><![CDATA[<p>After rewatching @LGR’s reviews on <a href="https://en.wikipedia.org/wiki/The_Elder_Scrolls">Elder scrolls</a> Video game series.
+I liked the look of The <a href="https://en.uesp.net/wiki/Oblivion:The_Imperial_City">Imperial City</a> featured in <a href="https://en.wikipedia.org/wiki/The_Elder_Scrolls_IV:_Oblivion">Elder Scrolls IV: Oblivion</a>.</p>
+]]></itunes:summary>
+		<itunes:author>Tom Sparks</itunes:author>
+		<itunes:image href="" />
+		<itunes:episode></itunes:episode>
+		<itunes:title>Imperial City</itunes:title>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration></itunes:duration>
+		<feedburner:origLink>https://tomasparks.name/miniatures/build-log/diorama/imperial-city/2018/12/28/ImperialCity.html</feedburner:origLink>
+		</item>
+
+
+
+    <item>
+		<title>webtorrent</title>
+		<link>https://tomasparks.name/miniatures/build-log/website/webtorrent/2019/05/05/2019-5-5.html</link>
+		<pubDate>Sun, 05 May 2019 00:00:00 +1000</pubDate>
+		<guid isPermaLink="false">https://tomasparks.name/miniatures/build-log/website/webtorrent/2019/05/05/2019-5-5.html</guid>
+		<description>
+</description>
+		<content:encoded><![CDATA[
+]]></content:encoded>
+   <enclosure url="{}-480p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-576p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-720p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-1800p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-480p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-576p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-720p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-1800p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   		<itunes:subtitle>
+</itunes:subtitle>
+		<itunes:summary><![CDATA[
+]]></itunes:summary>
+		<itunes:author>Tom Sparks</itunes:author>
+		<itunes:image href="" />
+		<itunes:episode></itunes:episode>
+		<itunes:title>webtorrent</itunes:title>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration></itunes:duration>
+		<feedburner:origLink>https://tomasparks.name/miniatures/build-log/website/webtorrent/2019/05/05/2019-5-5.html</feedburner:origLink>
+		</item>
+
+
+
+    <item>
+		<title>merge to p2p-krpano-viewer</title>
+		<link>https://tomasparks.name/miniatures/build-log/work-area/software/krpano/krpano-viewer/2019/05/05/merge-to-p2p-krpano-viewer.html</link>
+		<pubDate>Sun, 05 May 2019 00:00:00 +1000</pubDate>
+		<guid isPermaLink="false">https://tomasparks.name/miniatures/build-log/work-area/software/krpano/krpano-viewer/2019/05/05/merge-to-p2p-krpano-viewer.html</guid>
+		<description>
+</description>
+		<content:encoded><![CDATA[
+]]></content:encoded>
+   <enclosure url="{}-480p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-576p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-720p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-1800p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-480p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-576p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-720p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-1800p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   		<itunes:subtitle>
+</itunes:subtitle>
+		<itunes:summary><![CDATA[
+]]></itunes:summary>
+		<itunes:author>Tom Sparks</itunes:author>
+		<itunes:image href="" />
+		<itunes:episode></itunes:episode>
+		<itunes:title>merge to p2p-krpano-viewer</itunes:title>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration></itunes:duration>
+		<feedburner:origLink>https://tomasparks.name/miniatures/build-log/work-area/software/krpano/krpano-viewer/2019/05/05/merge-to-p2p-krpano-viewer.html</feedburner:origLink>
+		</item>
+
+
+
+    <item>
+		<title>Initial commit (gh-page) to github</title>
+		<link>https://tomasparks.name/miniatures/build-log/website/webtorrent/p2p-krpano-viewer/2019/05/06/2019-5-6.html</link>
+		<pubDate>Mon, 06 May 2019 10:29:13 +1000</pubDate>
+		<guid isPermaLink="false">https://tomasparks.name/miniatures/build-log/website/webtorrent/p2p-krpano-viewer/2019/05/06/2019-5-6.html</guid>
+		<description><p><a href="https://github.com/tomasparks/krpano-and-webtorrent/commit/5e5d01999043c5936e647935e1e3cf161a1dfba6">Initial commit (gh-page)</a> to github</p>
+</description>
+		<content:encoded><![CDATA[<p><a href="https://github.com/tomasparks/krpano-and-webtorrent/commit/5e5d01999043c5936e647935e1e3cf161a1dfba6">Initial commit (gh-page)</a> to github</p>
+]]></content:encoded>
+   <enclosure url="{}-480p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-576p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-720p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-1800p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-480p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-576p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-720p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-1800p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   		<itunes:subtitle><p><a href="https://github.com/tomasparks/krpano-and-webtorrent/commit/5e5d01999043c5936e647935e1e3cf161a1dfba6">Initial commit (gh-page)</a> to github</p>
+</itunes:subtitle>
+		<itunes:summary><![CDATA[<p><a href="https://github.com/tomasparks/krpano-and-webtorrent/commit/5e5d01999043c5936e647935e1e3cf161a1dfba6">Initial commit (gh-page)</a> to github</p>
+]]></itunes:summary>
+		<itunes:author>Tom Sparks</itunes:author>
+		<itunes:image href="" />
+		<itunes:episode></itunes:episode>
+		<itunes:title>Initial commit (gh-page) to github</itunes:title>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration></itunes:duration>
+		<feedburner:origLink>https://tomasparks.name/miniatures/build-log/website/webtorrent/p2p-krpano-viewer/2019/05/06/2019-5-6.html</feedburner:origLink>
+		</item>
+
+
+
+    <item>
+		<title>krpano black box bug</title>
+		<link>https://tomasparks.name/miniatures/build-log/website/webtorrent/p2p-krpano-viewer/2019/05/09/2019-5-9.html</link>
+		<pubDate>Thu, 09 May 2019 12:32:26 +1000</pubDate>
+		<guid isPermaLink="false">https://tomasparks.name/miniatures/build-log/website/webtorrent/p2p-krpano-viewer/2019/05/09/2019-5-9.html</guid>
+		<description><blockquote>
+  <p>VM5160:1 Uncaught RangeError: Invalid typed array length: 107961892351
+at new Uint8Array ()
+at qb (eval at embedpano (krpano.js:10), :1:59738)
+at Ga.p (eval at embedpano (krpano.js:10), :1:49008)
+at eval (eval at embedpano (krpano.js:10), :1:50289)
+at m (eval at embedpano (krpano.js:10), :1:63632)
+at eval (eval at embedpano (krpano.js:10), :1:65437)
+at Object.d [as loadxml] (eval at embedpano (krpano.js:10), :1:129797)
+at Function.k.loadxml (eval at embedpano (krpano.js:10), :1:98202)
+at Object.k.executeActions (eval at embedpano (krpano.js:10), :1:77876)
+at Object.k.callaction (eval at embedpano (krpano.js:10), :1:76712)
+at pd (eval at embedpano (krpano.js:10), :1:7126)
+at HTMLDivElement.jf [as call] (eval at embedpano (krpano.js:10), :1:7163)
+at js.js:76
+at Array.forEach ()
+at start (js.js:69) at onProgress (js.js:163)</p>
+</blockquote>
+</description>
+		<content:encoded><![CDATA[<blockquote>
+  <p>VM5160:1 Uncaught RangeError: Invalid typed array length: 107961892351
+at new Uint8Array ()
+at qb (eval at embedpano (krpano.js:10), :1:59738)
+at Ga.p (eval at embedpano (krpano.js:10), :1:49008)
+at eval (eval at embedpano (krpano.js:10), :1:50289)
+at m (eval at embedpano (krpano.js:10), :1:63632)
+at eval (eval at embedpano (krpano.js:10), :1:65437)
+at Object.d [as loadxml] (eval at embedpano (krpano.js:10), :1:129797)
+at Function.k.loadxml (eval at embedpano (krpano.js:10), :1:98202)
+at Object.k.executeActions (eval at embedpano (krpano.js:10), :1:77876)
+at Object.k.callaction (eval at embedpano (krpano.js:10), :1:76712)
+at pd (eval at embedpano (krpano.js:10), :1:7126)
+at HTMLDivElement.jf [as call] (eval at embedpano (krpano.js:10), :1:7163)
+at js.js:76
+at Array.forEach ()
+at start (js.js:69) at onProgress (js.js:163)</p>
+</blockquote>
+]]></content:encoded>
+   <enclosure url="{}-480p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-576p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-720p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-1800p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-480p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-576p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-720p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-1800p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   		<itunes:subtitle><blockquote>
+  <p>VM5160:1 Uncaught RangeError: Invalid typed array length: 107961892351
+at new Uint8Array ()
+at qb (eval at embedpano (krpano.js:10), :1:59738)
+at Ga.p (eval at embedpano (krpano.js:10), :1:49008)
+at eval (eval at embedpano (krpano.js:10), :1:50289)
+at m (eval at embedpano (krpano.js:10), :1:63632)
+at eval (eval at embedpano (krpano.js:10), :1:65437)
+at Object.d [as loadxml] (eval at embedpano (krpano.js:10), :1:129797)
+at Function.k.loadxml (eval at embedpano (krpano.js:10), :1:98202)
+at Object.k.executeActions (eval at embedpano (krpano.js:10), :1:77876)
+at Object.k.callaction (eval at embedpano (krpano.js:10), :1:76712)
+at pd (eval at embedpano (krpano.js:10), :1:7126)
+at HTMLDivElement.jf [as call] (eval at embedpano (krpano.js:10), :1:7163)
+at js.js:76
+at Array.forEach ()
+at start (js.js:69) at onProgress (js.js:163)</p>
+</blockquote>
+</itunes:subtitle>
+		<itunes:summary><![CDATA[<blockquote>
+  <p>VM5160:1 Uncaught RangeError: Invalid typed array length: 107961892351
+at new Uint8Array ()
+at qb (eval at embedpano (krpano.js:10), :1:59738)
+at Ga.p (eval at embedpano (krpano.js:10), :1:49008)
+at eval (eval at embedpano (krpano.js:10), :1:50289)
+at m (eval at embedpano (krpano.js:10), :1:63632)
+at eval (eval at embedpano (krpano.js:10), :1:65437)
+at Object.d [as loadxml] (eval at embedpano (krpano.js:10), :1:129797)
+at Function.k.loadxml (eval at embedpano (krpano.js:10), :1:98202)
+at Object.k.executeActions (eval at embedpano (krpano.js:10), :1:77876)
+at Object.k.callaction (eval at embedpano (krpano.js:10), :1:76712)
+at pd (eval at embedpano (krpano.js:10), :1:7126)
+at HTMLDivElement.jf [as call] (eval at embedpano (krpano.js:10), :1:7163)
+at js.js:76
+at Array.forEach ()
+at start (js.js:69) at onProgress (js.js:163)</p>
+</blockquote>
+]]></itunes:summary>
+		<itunes:author>Tom Sparks</itunes:author>
+		<itunes:image href="" />
+		<itunes:episode></itunes:episode>
+		<itunes:title>krpano black box bug</itunes:title>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration></itunes:duration>
+		<feedburner:origLink>https://tomasparks.name/miniatures/build-log/website/webtorrent/p2p-krpano-viewer/2019/05/09/2019-5-9.html</feedburner:origLink>
+		</item>
+
+
+
+    <item>
+		<title>Initial commit (gh-page) to github</title>
+		<link>https://tomasparks.name/miniatures/build-log/website/webtorrent/p2pvideo/2019/05/09/p2pvideo.html</link>
+		<pubDate>Thu, 09 May 2019 21:06:58 +1000</pubDate>
+		<guid isPermaLink="false">https://tomasparks.name/miniatures/build-log/website/webtorrent/p2pvideo/2019/05/09/p2pvideo.html</guid>
+		<description><p><a href="https://github.com/tomasparks/p2p-video/commit/768b207371fdfc2733d0b4c5c7ee731b3491e9b6">Initial commit (gh-page)</a> to github</p>
+</description>
+		<content:encoded><![CDATA[<p><a href="https://github.com/tomasparks/p2p-video/commit/768b207371fdfc2733d0b4c5c7ee731b3491e9b6">Initial commit (gh-page)</a> to github</p>
+]]></content:encoded>
+   <enclosure url="{}-480p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-576p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-720p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-1800p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-480p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-576p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-720p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-1800p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   		<itunes:subtitle><p><a href="https://github.com/tomasparks/p2p-video/commit/768b207371fdfc2733d0b4c5c7ee731b3491e9b6">Initial commit (gh-page)</a> to github</p>
+</itunes:subtitle>
+		<itunes:summary><![CDATA[<p><a href="https://github.com/tomasparks/p2p-video/commit/768b207371fdfc2733d0b4c5c7ee731b3491e9b6">Initial commit (gh-page)</a> to github</p>
+]]></itunes:summary>
+		<itunes:author>Tom Sparks</itunes:author>
+		<itunes:image href="" />
+		<itunes:episode></itunes:episode>
+		<itunes:title>Initial commit (gh-page) to github</itunes:title>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration></itunes:duration>
+		<feedburner:origLink>https://tomasparks.name/miniatures/build-log/website/webtorrent/p2pvideo/2019/05/09/p2pvideo.html</feedburner:origLink>
+		</item>
+
+
+
+    <item>
+		<title>How I plan on dealing with the Slashdot effect</title>
+		<link>https://tomasparks.name/miniatures/build-log/website/webtorrent/2019/05/10/slashdot-effect.html</link>
+		<pubDate>Fri, 10 May 2019 00:00:00 +1000</pubDate>
+		<guid isPermaLink="false">https://tomasparks.name/miniatures/build-log/website/webtorrent/2019/05/10/slashdot-effect.html</guid>
+		<description><p>see <a href="https://tomasparks.name/miniatures/notebook/2019/05/slashdot.html">How I plan on dealing with the Slashdot effect</a> in the notebook.</p>
+</description>
+		<content:encoded><![CDATA[<p>see <a href="https://tomasparks.name/miniatures/notebook/2019/05/slashdot.html">How I plan on dealing with the Slashdot effect</a> in the notebook.</p>
+]]></content:encoded>
+   <enclosure url="{}-480p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-576p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-720p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-1800p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-480p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-576p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-720p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-1800p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   		<itunes:subtitle><p>see <a href="https://tomasparks.name/miniatures/notebook/2019/05/slashdot.html">How I plan on dealing with the Slashdot effect</a> in the notebook.</p>
+</itunes:subtitle>
+		<itunes:summary><![CDATA[<p>see <a href="https://tomasparks.name/miniatures/notebook/2019/05/slashdot.html">How I plan on dealing with the Slashdot effect</a> in the notebook.</p>
+]]></itunes:summary>
+		<itunes:author>Tom Sparks</itunes:author>
+		<itunes:image href="" />
+		<itunes:episode></itunes:episode>
+		<itunes:title>How I plan on dealing with the Slashdot effect</itunes:title>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration></itunes:duration>
+		<feedburner:origLink>https://tomasparks.name/miniatures/build-log/website/webtorrent/2019/05/10/slashdot-effect.html</feedburner:origLink>
+		</item>
+
+
+
+    <item>
+		<title>Final commit (gh-page) to github</title>
+		<link>https://tomasparks.name/miniatures/build-log/website/webtorrent/p2pvideo/2019/05/10/p2pvideo-Final-commit.html</link>
+		<pubDate>Fri, 10 May 2019 08:00:56 +1000</pubDate>
+		<guid isPermaLink="false">https://tomasparks.name/miniatures/build-log/website/webtorrent/p2pvideo/2019/05/10/p2pvideo-Final-commit.html</guid>
+		<description><p><a href="https://github.com/tomasparks/p2p-video/commit/96d7d9c57d33789f2b32c4582b1f139f015a64f6">Final commit (gh-page)</a> to github</p>
+</description>
+		<content:encoded><![CDATA[<p><a href="https://github.com/tomasparks/p2p-video/commit/96d7d9c57d33789f2b32c4582b1f139f015a64f6">Final commit (gh-page)</a> to github</p>
+]]></content:encoded>
+   <enclosure url="{}-480p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-576p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-720p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-1800p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-480p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-576p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-720p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-1800p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   		<itunes:subtitle><p><a href="https://github.com/tomasparks/p2p-video/commit/96d7d9c57d33789f2b32c4582b1f139f015a64f6">Final commit (gh-page)</a> to github</p>
+</itunes:subtitle>
+		<itunes:summary><![CDATA[<p><a href="https://github.com/tomasparks/p2p-video/commit/96d7d9c57d33789f2b32c4582b1f139f015a64f6">Final commit (gh-page)</a> to github</p>
+]]></itunes:summary>
+		<itunes:author>Tom Sparks</itunes:author>
+		<itunes:image href="" />
+		<itunes:episode></itunes:episode>
+		<itunes:title>Final commit (gh-page) to github</itunes:title>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration></itunes:duration>
+		<feedburner:origLink>https://tomasparks.name/miniatures/build-log/website/webtorrent/p2pvideo/2019/05/10/p2pvideo-Final-commit.html</feedburner:origLink>
+		</item>
+
+
+
+    <item>
+		<title>Settting up my working area</title>
+		<link>https://tomasparks.name/miniatures/build-log/work-area/2019/05/14/setup-workarea.html</link>
+		<pubDate>Tue, 14 May 2019 00:00:00 +1000</pubDate>
+		<guid isPermaLink="false">https://tomasparks.name/miniatures/build-log/work-area/2019/05/14/setup-workarea.html</guid>
+		<description><p>I have two tables and a wire storage shelf arranged in a U-shape. <br />
+I am retooling two tower computers:</p>
+
+</description>
+		<content:encoded><![CDATA[<p>I have two tables and a wire storage shelf arranged in a U-shape. <br />
+I am retooling two tower computers:</p>
+
+<ul>
+  <li>ubuntu powered Capture/printer computer</li>
+  <li>win10 powered 3d modeling computer</li>
+</ul>
+
+<p>I need to Retool my Roland DXY-1300 Pen Plotter. <br />
+I am using a mattress as a wall divider.</p>
+]]></content:encoded>
+   <enclosure url="{}-480p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-576p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-720p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-1800p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-480p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-576p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-720p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-1800p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   		<itunes:subtitle><p>I have two tables and a wire storage shelf arranged in a U-shape. <br />
+I am retooling two tower computers:</p>
+
+</itunes:subtitle>
+		<itunes:summary><![CDATA[<p>I have two tables and a wire storage shelf arranged in a U-shape. <br />
+I am retooling two tower computers:</p>
+
+]]></itunes:summary>
+		<itunes:author>Tom Sparks</itunes:author>
+		<itunes:image href="" />
+		<itunes:episode></itunes:episode>
+		<itunes:title>Settting up my working area</itunes:title>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration></itunes:duration>
+		<feedburner:origLink>https://tomasparks.name/miniatures/build-log/work-area/2019/05/14/setup-workarea.html</feedburner:origLink>
+		</item>
+
+
+
+    <item>
+		<title>Merge p2pvideo to website source code</title>
+		<link>https://tomasparks.name/miniatures/build-log/website/webtorrent/p2pvideo/2019/05/17/merge-p2pvideo-to-website.html</link>
+		<pubDate>Fri, 17 May 2019 12:32:02 +1000</pubDate>
+		<guid isPermaLink="false">https://tomasparks.name/miniatures/build-log/website/webtorrent/p2pvideo/2019/05/17/merge-p2pvideo-to-website.html</guid>
+		<description><p><a href="https://github.com/tomasparks/miniatures-src/commit/428389c22e800a89e53abbaf1483d50ebb7b8007">Merge p2pvideo to website soruce code</a></p>
+</description>
+		<content:encoded><![CDATA[<p><a href="https://github.com/tomasparks/miniatures-src/commit/428389c22e800a89e53abbaf1483d50ebb7b8007">Merge p2pvideo to website soruce code</a></p>
+]]></content:encoded>
+   <enclosure url="{}-480p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-576p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-720p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-1800p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-480p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-576p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-720p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-1800p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   		<itunes:subtitle><p><a href="https://github.com/tomasparks/miniatures-src/commit/428389c22e800a89e53abbaf1483d50ebb7b8007">Merge p2pvideo to website soruce code</a></p>
+</itunes:subtitle>
+		<itunes:summary><![CDATA[<p><a href="https://github.com/tomasparks/miniatures-src/commit/428389c22e800a89e53abbaf1483d50ebb7b8007">Merge p2pvideo to website soruce code</a></p>
+]]></itunes:summary>
+		<itunes:author>Tom Sparks</itunes:author>
+		<itunes:image href="" />
+		<itunes:episode></itunes:episode>
+		<itunes:title>Merge p2pvideo to website source code</itunes:title>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration></itunes:duration>
+		<feedburner:origLink>https://tomasparks.name/miniatures/build-log/website/webtorrent/p2pvideo/2019/05/17/merge-p2pvideo-to-website.html</feedburner:origLink>
+		</item>
+
+
+
+    <item>
+		<title>Myst Island</title>
+		<link>https://tomasparks.name/miniatures/build-log/diorama/myst-island/2019/06/11/myst-island.html</link>
+		<pubDate>Tue, 11 Jun 2019 00:00:00 +1000</pubDate>
+		<guid isPermaLink="false">https://tomasparks.name/miniatures/build-log/diorama/myst-island/2019/06/11/myst-island.html</guid>
+		<description><blockquote>
+  <p><a href="https://en.wikipedia.org/wiki/Myst">Myst</a> is a graphic adventure puzzle video game designed by the Miller brothers, Robyn and Rand.
+It was developed by <a href="https://cyan.com/">Cyan, Inc</a>., published by Brøderbund, and released as a PC game for the Macintosh platform in 1993.
+In the game, players are told that a special book has caused them to travel to Myst Island.
+There, players solve puzzles and, by doing so, travel to four other worlds, known as Ages, which reveal the backstory of the game’s characters.</p>
+</blockquote>
+
+</description>
+		<content:encoded><![CDATA[<blockquote>
+  <p><a href="https://en.wikipedia.org/wiki/Myst">Myst</a> is a graphic adventure puzzle video game designed by the Miller brothers, Robyn and Rand.
+It was developed by <a href="https://cyan.com/">Cyan, Inc</a>., published by Brøderbund, and released as a PC game for the Macintosh platform in 1993.
+In the game, players are told that a special book has caused them to travel to Myst Island.
+There, players solve puzzles and, by doing so, travel to four other worlds, known as Ages, which reveal the backstory of the game’s characters.</p>
+</blockquote>
+
+<div class="polaroid">
+<img class="u-photo" src="/miniatures/assets/images/Mystisland.jpg" alt="Myst Island from the computer game Myst" srcset=" /miniatures/assets/images/Mystisland.jpg 640w" style="width:100%" />
+  <div class="container">
+    <p>Myst Island from the computer game Myst</p>
+  </div>
+</div>
+
+<div class="polaroid">
+<img class="u-photo" src="/miniatures/assets/images/Myst_opening.png" alt="Screenshot from the computer game Myst" srcset=" /miniatures/assets/images/Myst_opening.png 404w" style="width:100%" />
+  <div class="container">
+    <p>Screenshot from the computer game Myst</p>
+  </div>
+</div>
+
+<p>To make sure I have permission I’ve contacted <a href="https://cyan.com/">Cyan, Inc</a>.</p>
+
+<blockquote>
+  <p>Asset Use Guidelines</p>
+
+  <p>“I apologize for the cage.” – Gehn (Riven)</p>
+
+  <p>Non-Commercial Use</p>
+
+  <p>At Cyan’s sole discretion, we allow usage of the Assets for personal, home and school (non-commercial, non-revenue producing). Completion of an <a href="https://cyan.com/company/support/asset-request-form/">Asset Request Form</a> and subsequent approval is required, and use of approved assets are limited to the requestor. Further distribution by requestor, whether through direct distribution or via the ability of a third party to “copy and paste” the Assets are prohibited without the third party completing an <a href="https://cyan.com/company/support/asset-request-form/">Asset Request Form</a>.</p>
+
+  <p>General guidelines for Non-Commercial Use are as follows:</p>
+
+  <p>Maximum asset usage per domain for Ages less than 1 year from release</p>
+  <ul>
+    <li>3 full size images from each age (larger than a thumbnail)</li>
+    <li>10 thumbnail images from each age (typically 100 x 100 pixels)</li>
+    <li>10 seconds of sound from each age</li>
+    <li>50 words of journal text from each age
+Maximum asset usage per domain for Ages more than 1 year from release</li>
+    <li>15 full size images from each age (larger than a thumbnail)</li>
+    <li>25 thumbnail images from each age (typically 100 x 100 pixels)</li>
+    <li>30 seconds of sound from each age</li>
+    <li>200 words of journal text from each age</li>
+  </ul>
+
+  <p>Third Party Work and Fan Art</p>
+
+  <p>At Cyan’s sole discretion, we allow usage of the Assets for fan created content (Third Party Work/TPW) which will be shared with other fans at no cost. Please review TPW criteria prior to submitting an <a href="https://cyan.com/company/support/asset-request-form/">Asset Request Form</a> for use of assets. As a warning, we do not guarantee a specific amount of time in which we will get back to you. That said we usually look over all third party requests with a legal committee once a quarter. Written permission is required.</p>
+
+  <p>General guidelines for TPW asset use:</p>
+  <ul>
+    <li>Your work (Third Party Work/TPW) will not be sanctioned by Cyan.</li>
+    <li>Cyan will not assist in the creation of your TPW.</li>
+    <li>You are responsible for researching all public information created by Cyan on Cyan’s products to ensure that your TPW conforms with and does not conflict with our works.</li>
+    <li>Your TPW shall not sully, soil, deface, or otherwise discredit Cyan’s current story lines, events, characters, or places.</li>
+    <li>You may create your own events, characters, etc., however these new additions must not alter or conflict with works Cyan has already made public. Additionally, Cyan may, from time to time make public, new story lines, characters, etc., which at the time of their release by Cyan shall be considered “fact.” And should your TPW contradict or conflict with Cyan’s work, you are responsible and required to modify your TPW to resolve the conflict.</li>
+    <li>Given the potential magnitude of TPWs related to Cyan’s properties, Cyan is unable to advise you and is under no obligation to advise you regarding compliance of your TPWs to Cyan’s story lines, etc.</li>
+    <li>Your TPW shall not be for profit, barter, trade or any other form of commerce, whether directly or indirectly by you or another party from which you or other parties benefit in any form.</li>
+    <li>The grant of license may be revoked at any time.
+If you do not agree with each of these terms and conditions, do not create your TPW based on Cyan’s products.</li>
+  </ul>
+
+  <p>Commercial Use</p>
+
+  <p>At Cyan’s sole discretion, we permit the use of the Assets for commercial endeavors such as publications, television, radio, film, or other such commercial application. Completion of an <a href="https://cyan.com/company/support/asset-request-form/">Asset Request Form</a>, AND written permission is required.</p>
+
+  <p>Legal Contact</p>
+
+  <p>If you’d like to contact our legal department, please email legal@cyan.com.</p>
+</blockquote>
+]]></content:encoded>
+   <enclosure url="{}-480p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-576p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-720p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-1800p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-480p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-576p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-720p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-1800p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   		<itunes:subtitle><blockquote>
+  <p><a href="https://en.wikipedia.org/wiki/Myst">Myst</a> is a graphic adventure puzzle video game designed by the Miller brothers, Robyn and Rand.
+It was developed by <a href="https://cyan.com/">Cyan, Inc</a>., published by Brøderbund, and released as a PC game for the Macintosh platform in 1993.
+In the game, players are told that a special book has caused them to travel to Myst Island.
+There, players solve puzzles and, by doing so, travel to four other worlds, known as Ages, which reveal the backstory of the game’s characters.</p>
+</blockquote>
+
+</itunes:subtitle>
+		<itunes:summary><![CDATA[<blockquote>
+  <p><a href="https://en.wikipedia.org/wiki/Myst">Myst</a> is a graphic adventure puzzle video game designed by the Miller brothers, Robyn and Rand.
+It was developed by <a href="https://cyan.com/">Cyan, Inc</a>., published by Brøderbund, and released as a PC game for the Macintosh platform in 1993.
+In the game, players are told that a special book has caused them to travel to Myst Island.
+There, players solve puzzles and, by doing so, travel to four other worlds, known as Ages, which reveal the backstory of the game’s characters.</p>
+</blockquote>
+
+]]></itunes:summary>
+		<itunes:author>Tom Sparks</itunes:author>
+		<itunes:image href="" />
+		<itunes:episode></itunes:episode>
+		<itunes:title>Myst Island</itunes:title>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration></itunes:duration>
+		<feedburner:origLink>https://tomasparks.name/miniatures/build-log/diorama/myst-island/2019/06/11/myst-island.html</feedburner:origLink>
+		</item>
+
+
+
+    <item>
+		<title>Convert Library model stl to papermodel</title>
+		<link>https://tomasparks.name/miniatures/build-log/diorama/myst-island/2019/06/19/Library.html</link>
+		<pubDate>Wed, 19 Jun 2019 00:00:00 +1000</pubDate>
+		<guid isPermaLink="false">https://tomasparks.name/miniatures/build-log/diorama/myst-island/2019/06/19/Library.html</guid>
+		<description><p>My Model unfolding <a href="https://tamasoft.co.jp/pepakura-en/index.html">software</a> did not like the stl file uploaded to <a href="https://www.thingiverse.com/Cyan_Inc/designs">thingiverse</a> by @cyanworlds.</p>
+</description>
+		<content:encoded><![CDATA[<p>My Model unfolding <a href="https://tamasoft.co.jp/pepakura-en/index.html">software</a> did not like the stl file uploaded to <a href="https://www.thingiverse.com/Cyan_Inc/designs">thingiverse</a> by @cyanworlds.</p>
+]]></content:encoded>
+   <enclosure url="{}-480p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-576p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-720p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-1800p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-480p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-576p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-720p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-1800p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   		<itunes:subtitle><p>My Model unfolding <a href="https://tamasoft.co.jp/pepakura-en/index.html">software</a> did not like the stl file uploaded to <a href="https://www.thingiverse.com/Cyan_Inc/designs">thingiverse</a> by @cyanworlds.</p>
+</itunes:subtitle>
+		<itunes:summary><![CDATA[<p>My Model unfolding <a href="https://tamasoft.co.jp/pepakura-en/index.html">software</a> did not like the stl file uploaded to <a href="https://www.thingiverse.com/Cyan_Inc/designs">thingiverse</a> by @cyanworlds.</p>
+]]></itunes:summary>
+		<itunes:author>Tom Sparks</itunes:author>
+		<itunes:image href="" />
+		<itunes:episode></itunes:episode>
+		<itunes:title>Convert Library model stl to papermodel</itunes:title>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration></itunes:duration>
+		<feedburner:origLink>https://tomasparks.name/miniatures/build-log/diorama/myst-island/2019/06/19/Library.html</feedburner:origLink>
+		</item>
+
+
+
+    <item>
+		<title>Deliveries</title>
+		<link>https://tomasparks.name/miniatures/build-log/work-area/2019/06/20/Deliveries.html</link>
+		<pubDate>Thu, 20 Jun 2019 00:00:00 +1000</pubDate>
+		<guid isPermaLink="false">https://tomasparks.name/miniatures/build-log/work-area/2019/06/20/Deliveries.html</guid>
+		<description><p>Yay, Deliveries</p>
+
+</description>
+		<content:encoded><![CDATA[<p>Yay, Deliveries</p>
+
+<div class="polaroid">
+<img class="u-photo" src="/miniatures/assets/images/B07D2HYBVS.jpg" alt="2x JIFFY Wide-Angle HD Camera, 1080P Webcam with Dual Microphone." srcset="    /miniatures/assets/images/resized/768/B07D2HYBVS.jpg 768w,    /miniatures/assets/images/resized/640/B07D2HYBVS.jpg 640w, /miniatures/assets/images/B07D2HYBVS.jpg 1010w" style="width:100%" />
+  <div class="container">
+    <p>2x JIFFY Wide-Angle HD Camera, 1080P Webcam with Dual Microphone.</p>
+  </div>
+</div>
+
+<div class="polaroid">
+<img class="u-photo" src="/miniatures/assets/images/B07GPDCVVV.jpg" alt="Neewer 6-inch LED Desk Ring Light. faulty RTS :(" srcset="    /miniatures/assets/images/resized/1366/B07GPDCVVV.jpg 1366w,    /miniatures/assets/images/resized/1024/B07GPDCVVV.jpg 1024w,    /miniatures/assets/images/resized/768/B07GPDCVVV.jpg 768w,    /miniatures/assets/images/resized/640/B07GPDCVVV.jpg 640w, /miniatures/assets/images/B07GPDCVVV.jpg 1500w" style="width:100%" />
+  <div class="container">
+    <p>Neewer 6-inch LED Desk Ring Light. faulty RTS :(</p>
+  </div>
+</div>
+
+<div class="polaroid">
+<img class="u-photo" src="/miniatures/assets/images/B07BRLXZL8.jpg" alt="LEDMOMO LED Ring Shooting Night Flash Light for GoPro Hero 3+ / Hero 4 with USB Cable." srcset="    /miniatures/assets/images/resized/768/B07BRLXZL8.jpg 768w,    /miniatures/assets/images/resized/640/B07BRLXZL8.jpg 640w, /miniatures/assets/images/B07BRLXZL8.jpg 1002w" style="width:100%" />
+  <div class="container">
+    <p>LEDMOMO LED Ring Shooting Night Flash Light for GoPro Hero 3+ / Hero 4 with USB Cable.</p>
+  </div>
+</div>
+
+<div class="polaroid">
+<img class="u-photo" src="/miniatures/assets/images/B01N41607I.jpg" alt="UGREEN USB Audio Adapter External Stereo Sound Card with 3.5mm Headphone and Microphone Jack for Windows, Mac, Linux, PC, Laptops, Desktops, PS4" srcset="    /miniatures/assets/images/resized/768/B01N41607I.jpg 768w,    /miniatures/assets/images/resized/640/B01N41607I.jpg 640w, /miniatures/assets/images/B01N41607I.jpg 1001w" style="width:100%" />
+  <div class="container">
+    <p>UGREEN USB Audio Adapter External Stereo Sound Card with 3.5mm Headphone and Microphone Jack for Windows, Mac, Linux, PC, Laptops, Desktops, PS4</p>
+  </div>
+</div>
+
+<div class="polaroid">
+<img class="u-photo" src="/miniatures/assets/images/B07DJZ98HJ.jpg" alt="PULUZ 40CM Photography Light Box Portable Photo Studio Shooting Tent Foldable Table top Mini LED lighting Kit with Integrated LED Lights &amp; 3 Colors Backdrops (Black, Orange, White ) Size: 40cm x 40cm x40cm" srcset="    /miniatures/assets/images/resized/1024/B07DJZ98HJ.jpg 1024w,    /miniatures/assets/images/resized/768/B07DJZ98HJ.jpg 768w,    /miniatures/assets/images/resized/640/B07DJZ98HJ.jpg 640w, /miniatures/assets/images/B07DJZ98HJ.jpg 1100w" style="width:100%" />
+  <div class="container">
+    <p>PULUZ 40CM Photography Light Box Portable Photo Studio Shooting Tent Foldable Table top Mini LED lighting Kit with Integrated LED Lights &amp; 3 Colors Backdrops (Black, Orange, White ) Size: 40cm x 40cm x40cm</p>
+  </div>
+</div>
+
+<div class="polaroid">
+<img class="u-photo" src="/miniatures/assets/images/B01M0VUDAC.jpg" alt="Foldio 360" srcset="    /miniatures/assets/images/resized/1024/B01M0VUDAC.jpg 1024w,    /miniatures/assets/images/resized/768/B01M0VUDAC.jpg 768w,    /miniatures/assets/images/resized/640/B01M0VUDAC.jpg 640w, /miniatures/assets/images/B01M0VUDAC.jpg 1280w" style="width:100%" />
+  <div class="container">
+    <p>Foldio 360</p>
+  </div>
+</div>
+
+]]></content:encoded>
+   <enclosure url="{}-480p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-576p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-720p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-1800p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-480p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-576p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-720p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-1800p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   		<itunes:subtitle><p>Yay, Deliveries</p>
+
+</itunes:subtitle>
+		<itunes:summary><![CDATA[<p>Yay, Deliveries</p>
+
+]]></itunes:summary>
+		<itunes:author>Tom Sparks</itunes:author>
+		<itunes:image href="" />
+		<itunes:episode></itunes:episode>
+		<itunes:title>Deliveries</itunes:title>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration></itunes:duration>
+		<feedburner:origLink>https://tomasparks.name/miniatures/build-log/work-area/2019/06/20/Deliveries.html</feedburner:origLink>
+		</item>
+
+
+
+    <item>
+		<title>Convert Planetarium model stl to sliceform papermodel part 1</title>
+		<link>https://tomasparks.name/miniatures/build-log/diorama/myst-island/2019/06/21/Planetarium.html</link>
+		<pubDate>Fri, 21 Jun 2019 00:00:00 +1000</pubDate>
+		<guid isPermaLink="false">https://tomasparks.name/miniatures/build-log/diorama/myst-island/2019/06/21/Planetarium.html</guid>
+		<description><p>After the failed attempt with the Library model, I tried @autodesk’s fusion 360 <a href="https://apps.autodesk.com/FUSION/en/Detail/Index?id=8699194120463301363">slicer</a> on the Planetarium base model.
+I have had great success. :)</p>
+</description>
+		<content:encoded><![CDATA[<p>After the failed attempt with the Library model, I tried @autodesk’s fusion 360 <a href="https://apps.autodesk.com/FUSION/en/Detail/Index?id=8699194120463301363">slicer</a> on the Planetarium base model.
+I have had great success. :)</p>
+]]></content:encoded>
+   <enclosure url="{}-480p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-576p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-720p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-1800p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-480p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-576p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-720p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-1800p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   		<itunes:subtitle><p>After the failed attempt with the Library model, I tried @autodesk’s fusion 360 <a href="https://apps.autodesk.com/FUSION/en/Detail/Index?id=8699194120463301363">slicer</a> on the Planetarium base model.
+I have had great success. :)</p>
+</itunes:subtitle>
+		<itunes:summary><![CDATA[<p>After the failed attempt with the Library model, I tried @autodesk’s fusion 360 <a href="https://apps.autodesk.com/FUSION/en/Detail/Index?id=8699194120463301363">slicer</a> on the Planetarium base model.
+I have had great success. :)</p>
+]]></itunes:summary>
+		<itunes:author>Tom Sparks</itunes:author>
+		<itunes:image href="" />
+		<itunes:episode></itunes:episode>
+		<itunes:title>Convert Planetarium model stl to sliceform papermodel part 1</itunes:title>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration></itunes:duration>
+		<feedburner:origLink>https://tomasparks.name/miniatures/build-log/diorama/myst-island/2019/06/21/Planetarium.html</feedburner:origLink>
+		</item>
+
+
+
+    <item>
+		<title>Convert Planetarium model stl to sliceform papermodel part 2</title>
+		<link>https://tomasparks.name/miniatures/build-log/diorama/myst-island/2019/06/28/sliceform-part-2.html</link>
+		<pubDate>Fri, 28 Jun 2019 00:00:00 +1000</pubDate>
+		<guid isPermaLink="false">https://tomasparks.name/miniatures/build-log/diorama/myst-island/2019/06/28/sliceform-part-2.html</guid>
+		<description><p>After looking at the exported plans from @autodesk’s fusion 360 <a href="https://apps.autodesk.com/FUSION/en/Detail/Index?id=8699194120463301363">slicer</a>, they are unusable :(</p>
+
+</description>
+		<content:encoded><![CDATA[<p>After looking at the exported plans from @autodesk’s fusion 360 <a href="https://apps.autodesk.com/FUSION/en/Detail/Index?id=8699194120463301363">slicer</a>, they are unusable :(</p>
+
+<ul>
+  <li>Stacked: too few layers</li>
+  <li>Interlocked: only half the model had both vertical and horizontal interlocking parts</li>
+</ul>
+
+]]></content:encoded>
+   <enclosure url="{}-480p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-576p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-720p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-1800p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-480p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-576p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-720p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-1800p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   		<itunes:subtitle><p>After looking at the exported plans from @autodesk’s fusion 360 <a href="https://apps.autodesk.com/FUSION/en/Detail/Index?id=8699194120463301363">slicer</a>, they are unusable :(</p>
+
+</itunes:subtitle>
+		<itunes:summary><![CDATA[<p>After looking at the exported plans from @autodesk’s fusion 360 <a href="https://apps.autodesk.com/FUSION/en/Detail/Index?id=8699194120463301363">slicer</a>, they are unusable :(</p>
+
+]]></itunes:summary>
+		<itunes:author>Tom Sparks</itunes:author>
+		<itunes:image href="" />
+		<itunes:episode></itunes:episode>
+		<itunes:title>Convert Planetarium model stl to sliceform papermodel part 2</itunes:title>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration></itunes:duration>
+		<feedburner:origLink>https://tomasparks.name/miniatures/build-log/diorama/myst-island/2019/06/28/sliceform-part-2.html</feedburner:origLink>
+		</item>
+
+
+
+    <item>
+		<title>JrF C-SERIES pro contact microphone</title>
+		<link>https://tomasparks.name/miniatures/build-log/work-area/2019/07/08/contact-mic.html</link>
+		<pubDate>Mon, 08 Jul 2019 00:00:00 +1000</pubDate>
+		<guid isPermaLink="false">https://tomasparks.name/miniatures/build-log/work-area/2019/07/08/contact-mic.html</guid>
+		<description><p>yay, I got my <a href="https://jezrileyfrench.co.uk/contact-microphones.php">contact mic</a> for recording the pen plotter sounds :)</p>
+
+</description>
+		<content:encoded><![CDATA[<p>yay, I got my <a href="https://jezrileyfrench.co.uk/contact-microphones.php">contact mic</a> for recording the pen plotter sounds :)</p>
+
+<div class="polaroid">
+<img class="u-photo" src="/miniatures/assets/images/P5040507.JPG" alt="JrF C-SERIES pro contact microphone" srcset="    /miniatures/assets/images/resized/768/P5040507.JPG 768w,    /miniatures/assets/images/resized/640/P5040507.JPG 640w, /miniatures/assets/images/P5040507.JPG 1024w" style="width:100%" />
+  <div class="container">
+    <p>JrF C-SERIES pro contact microphone</p>
+  </div>
+</div>
+
+]]></content:encoded>
+   <enclosure url="{}-480p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-576p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-720p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-1800p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-480p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-576p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-720p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-1800p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   		<itunes:subtitle><p>yay, I got my <a href="https://jezrileyfrench.co.uk/contact-microphones.php">contact mic</a> for recording the pen plotter sounds :)</p>
+
+</itunes:subtitle>
+		<itunes:summary><![CDATA[<p>yay, I got my <a href="https://jezrileyfrench.co.uk/contact-microphones.php">contact mic</a> for recording the pen plotter sounds :)</p>
+
+]]></itunes:summary>
+		<itunes:author>Tom Sparks</itunes:author>
+		<itunes:image href="" />
+		<itunes:episode></itunes:episode>
+		<itunes:title>JrF C-SERIES pro contact microphone</itunes:title>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration></itunes:duration>
+		<feedburner:origLink>https://tomasparks.name/miniatures/build-log/work-area/2019/07/08/contact-mic.html</feedburner:origLink>
+		</item>
+
+
+
+    <item>
+		<title>Castle</title>
+		<link>https://tomasparks.name/miniatures/build-log/diorama/castle/2019/07/09/castle.html</link>
+		<pubDate>Tue, 09 Jul 2019 00:00:00 +1000</pubDate>
+		<guid isPermaLink="false">https://tomasparks.name/miniatures/build-log/diorama/castle/2019/07/09/castle.html</guid>
+		<description><p>After watching @TheNerdforge’s <a href="https://www.youtube.com/watch?v=VbnHe-qDFUQ">Making A Miniature Fantasy LANDSCAPE (For An Epic Castle?)</a> and <a href="https://www.youtube.com/watch?v=_2N-AL515rE">Making an Epic Wizard Castle Using 2500+ Bricks!</a>,
+the idea of doing a Castle is growing on me.</p>
+</description>
+		<content:encoded><![CDATA[<p>After watching @TheNerdforge’s <a href="https://www.youtube.com/watch?v=VbnHe-qDFUQ">Making A Miniature Fantasy LANDSCAPE (For An Epic Castle?)</a> and <a href="https://www.youtube.com/watch?v=_2N-AL515rE">Making an Epic Wizard Castle Using 2500+ Bricks!</a>,
+the idea of doing a Castle is growing on me.</p>
+]]></content:encoded>
+   <enclosure url="{}-480p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-576p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-720p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-1800p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-480p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-576p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-720p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-1800p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   		<itunes:subtitle><p>After watching @TheNerdforge’s <a href="https://www.youtube.com/watch?v=VbnHe-qDFUQ">Making A Miniature Fantasy LANDSCAPE (For An Epic Castle?)</a> and <a href="https://www.youtube.com/watch?v=_2N-AL515rE">Making an Epic Wizard Castle Using 2500+ Bricks!</a>,
+the idea of doing a Castle is growing on me.</p>
+</itunes:subtitle>
+		<itunes:summary><![CDATA[<p>After watching @TheNerdforge’s <a href="https://www.youtube.com/watch?v=VbnHe-qDFUQ">Making A Miniature Fantasy LANDSCAPE (For An Epic Castle?)</a> and <a href="https://www.youtube.com/watch?v=_2N-AL515rE">Making an Epic Wizard Castle Using 2500+ Bricks!</a>,
+the idea of doing a Castle is growing on me.</p>
+]]></itunes:summary>
+		<itunes:author>Tom Sparks</itunes:author>
+		<itunes:image href="" />
+		<itunes:episode></itunes:episode>
+		<itunes:title>Castle</itunes:title>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration></itunes:duration>
+		<feedburner:origLink>https://tomasparks.name/miniatures/build-log/diorama/castle/2019/07/09/castle.html</feedburner:origLink>
+		</item>
+
+
+
+    <item>
+		<title>features wishlist</title>
+		<link>https://tomasparks.name/miniatures/build-log/diorama/pirate-island/2019/07/12/features-wishlist.html</link>
+		<pubDate>Fri, 12 Jul 2019 00:00:00 +1000</pubDate>
+		<guid isPermaLink="false">https://tomasparks.name/miniatures/build-log/diorama/pirate-island/2019/07/12/features-wishlist.html</guid>
+		<description><p>I would like to have these features on the Pirate island</p>
+
+</description>
+		<content:encoded><![CDATA[<p>I would like to have these features on the Pirate island</p>
+
+<ul>
+  <li><a href="https://en.wikipedia.org/wiki/Cove">Cove</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/Waterfall">Waterfall</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/Simple_suspension_bridge">Rope Bridge</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/Pier">Pier</a> / <a href="https://en.wikipedia.org/wiki/Wharf">Wharf</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/Shipwreck">Shipwreck</a></li>
+</ul>
+]]></content:encoded>
+   <enclosure url="{}-480p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-576p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-720p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-1800p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-480p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-576p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-720p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-1800p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   		<itunes:subtitle><p>I would like to have these features on the Pirate island</p>
+
+</itunes:subtitle>
+		<itunes:summary><![CDATA[<p>I would like to have these features on the Pirate island</p>
+
+]]></itunes:summary>
+		<itunes:author>Tom Sparks</itunes:author>
+		<itunes:image href="" />
+		<itunes:episode></itunes:episode>
+		<itunes:title>features wishlist</itunes:title>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration></itunes:duration>
+		<feedburner:origLink>https://tomasparks.name/miniatures/build-log/diorama/pirate-island/2019/07/12/features-wishlist.html</feedburner:origLink>
+		</item>
+
+
+
+    <item>
+		<title>Re-Setting up Virtual Machine</title>
+		<link>https://tomasparks.name/miniatures/build-log/work-area/camera-rig/icg-software/vm/2019/08/03/setup-VM.html</link>
+		<pubDate>Sat, 03 Aug 2019 18:36:04 +1000</pubDate>
+		<guid isPermaLink="false">https://tomasparks.name/miniatures/build-log/work-area/camera-rig/icg-software/vm/2019/08/03/setup-VM.html</guid>
+		<description>
+</description>
+		<content:encoded><![CDATA[
+]]></content:encoded>
+   <enclosure url="{}-480p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-576p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-720p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-1800p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-480p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-576p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-720p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-1800p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   		<itunes:subtitle>
+</itunes:subtitle>
+		<itunes:summary><![CDATA[
+]]></itunes:summary>
+		<itunes:author>Tom Sparks</itunes:author>
+		<itunes:image href="" />
+		<itunes:episode></itunes:episode>
+		<itunes:title>Re-Setting up Virtual Machine</itunes:title>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration></itunes:duration>
+		<feedburner:origLink>https://tomasparks.name/miniatures/build-log/work-area/camera-rig/icg-software/vm/2019/08/03/setup-VM.html</feedburner:origLink>
+		</item>
+
+
+
+    <item>
+		<title>Stop compiling opencv, install pre-build version</title>
+		<link>https://tomasparks.name/miniatures/build-log/work-area/camera-rig/icg-software/vm/2019/08/14/14-08-2019-stop-compling-opencv.html</link>
+		<pubDate>Wed, 14 Aug 2019 21:00:00 +1000</pubDate>
+		<guid isPermaLink="false">https://tomasparks.name/miniatures/build-log/work-area/camera-rig/icg-software/vm/2019/08/14/14-08-2019-stop-compling-opencv.html</guid>
+		<description><blockquote>
+  <p>sudo apt-get install python-opencv</p>
+</blockquote>
+</description>
+		<content:encoded><![CDATA[<blockquote>
+  <p>sudo apt-get install python-opencv</p>
+</blockquote>
+]]></content:encoded>
+   <enclosure url="{}-480p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-576p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-720p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-1800p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-480p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-576p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-720p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-1800p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   		<itunes:subtitle><blockquote>
+  <p>sudo apt-get install python-opencv</p>
+</blockquote>
+</itunes:subtitle>
+		<itunes:summary><![CDATA[<blockquote>
+  <p>sudo apt-get install python-opencv</p>
+</blockquote>
+]]></itunes:summary>
+		<itunes:author>Tom Sparks</itunes:author>
+		<itunes:image href="" />
+		<itunes:episode></itunes:episode>
+		<itunes:title>Stop compiling opencv, install pre-build version</itunes:title>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration></itunes:duration>
+		<feedburner:origLink>https://tomasparks.name/miniatures/build-log/work-area/camera-rig/icg-software/vm/2019/08/14/14-08-2019-stop-compling-opencv.html</feedburner:origLink>
+		</item>
+
+
+
+    <item>
+		<title>Download PhotoTourism Notre Dame image dataset</title>
+		<link>https://tomasparks.name/miniatures/build-log/work-area/camera-rig/icg-software/test-datasets/2019/08/16/notre-dame.html</link>
+		<pubDate>Fri, 16 Aug 2019 00:00:00 +1000</pubDate>
+		<guid isPermaLink="false">https://tomasparks.name/miniatures/build-log/work-area/camera-rig/icg-software/test-datasets/2019/08/16/notre-dame.html</guid>
+		<description>
+</description>
+		<content:encoded><![CDATA[
+]]></content:encoded>
+   <enclosure url="{}-480p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-576p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-720p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-1800p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-480p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-576p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-720p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-1800p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   		<itunes:subtitle>
+</itunes:subtitle>
+		<itunes:summary><![CDATA[
+]]></itunes:summary>
+		<itunes:author>Tom Sparks</itunes:author>
+		<itunes:image href="" />
+		<itunes:episode></itunes:episode>
+		<itunes:title>Download PhotoTourism Notre Dame image dataset</itunes:title>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration></itunes:duration>
+		<feedburner:origLink>https://tomasparks.name/miniatures/build-log/work-area/camera-rig/icg-software/test-datasets/2019/08/16/notre-dame.html</feedburner:origLink>
+		</item>
+
+
+
+
+    
+    <item>
+		<title>How I plan on dealing with the Slashdot effect</title>
+		<link>https://tomasparks.name/miniatures/notebook/2019/05/slashdot.html</link>
+		<pubDate>Fri, 10 May 2019 00:00:00 +1000</pubDate>
+		<guid isPermaLink="false">https://tomasparks.name/miniatures/notebook/2019/05/slashdot.html</guid>
+		<description><blockquote>
+  <p>The Slashdot effect, also known as slashdotting, occurs when a popular website links to a smaller website, causing a massive increase in traffic. This overloads the smaller site, causing it to slow down or even temporarily become unavailable. The name stems from the huge influx of web traffic which would result from the technology news site Slashdot linking to websites. The original circumstances have changed, as flash crowds from Slashdot were reported in 2005 to be diminishing due to competition from similar sites, and the general adoption of elastically scalable cloud hosting platforms. The effect has been associated with other websites or metablogs such as Fark, Digg, Drudge Report, Imgur, Reddit, and Twitter, leading to terms such as being “farked” or “drudged”, being under the “Reddit effect”—or receiving a “hug of death” from the site in question. Google Doodles, which link to search results on the doodle topic, also result in high increases of traffic from the search results page. Typically, less robust sites are unable to cope with the huge increase in traffic and become unavailable – common causes are lack of sufficient data bandwidth, servers that fail to cope with the high number of requests, and traffic quotas. Sites that are maintained on shared hosting services often fail when confronted with the Slashdot effect.
+A flash crowd is a more generic term without using any specific name that describes a network phenomenon where a network or host suddenly receives a lot of traffic. This is sometimes due to the appearance of a website on a blog or news column.</p>
+</blockquote>
+
+</description>
+		<content:encoded><![CDATA[<blockquote>
+  <p>The Slashdot effect, also known as slashdotting, occurs when a popular website links to a smaller website, causing a massive increase in traffic. This overloads the smaller site, causing it to slow down or even temporarily become unavailable. The name stems from the huge influx of web traffic which would result from the technology news site Slashdot linking to websites. The original circumstances have changed, as flash crowds from Slashdot were reported in 2005 to be diminishing due to competition from similar sites, and the general adoption of elastically scalable cloud hosting platforms. The effect has been associated with other websites or metablogs such as Fark, Digg, Drudge Report, Imgur, Reddit, and Twitter, leading to terms such as being “farked” or “drudged”, being under the “Reddit effect”—or receiving a “hug of death” from the site in question. Google Doodles, which link to search results on the doodle topic, also result in high increases of traffic from the search results page. Typically, less robust sites are unable to cope with the huge increase in traffic and become unavailable – common causes are lack of sufficient data bandwidth, servers that fail to cope with the high number of requests, and traffic quotas. Sites that are maintained on shared hosting services often fail when confronted with the Slashdot effect.
+A flash crowd is a more generic term without using any specific name that describes a network phenomenon where a network or host suddenly receives a lot of traffic. This is sometimes due to the appearance of a website on a blog or news column.</p>
+</blockquote>
+
+<p><a href="https://en.wikipedia.org/wiki/Slashdot_effect">https://en.wikipedia.org/wiki/Slashdot_effect</a></p>
+
+<p>To deal with the Slashdot effect, I am using <a href="https://webtorrent.io/">webtorrent</a> in two areas: Video and images.</p>
+
+<h3 id="videos">Videos</h3>
+
+<p>the <a href="https://github.com/webtorrent/webtorrent/">webtorrent communtiy</a> has devopled two methods for share video via webtorrent, that dose not need extra server side software<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup></p>
+
+<ol>
+  <li>Webtorrent’s file.appendTo()</li>
+  <li><a href="https://github.com/novage/p2p-media-loader">p2p-media-loader</a>: webtorrent to HLS</li>
+</ol>
+
+<h3 id="images">images</h3>
+
+<h4 id="krpano">Krpano</h4>
+
+<p>there was no know implementation of using krpano with webtorrent from the <a href="https://krpano.com/forum/wbb/index.php?l=2">Krpano community</a>.</p>
+
+<p>I am the first to try see the <a href="https://tomasparks.name/krpano-and-webtorrent/index.html">demo</a> or <a href="https://github.com/tomasparks/krpano-and-webtorrent">source code</a>.
+sadly due to a bug in krpano the project has stalled :(</p>
+
+<h4 id="deepzoom--map">Deepzoom / map</h4>
+
+<p>I was able to find <a href="https://github.com/himynameismartin/L.TileLayer.Tomato">WebTorrent Map Tiles Provider for Leaflet</a>,
+but the one image per <a href="https://en.wikipedia.org/wiki/Magnet_URI_scheme">magnet link</a> is a very poor use of the bittorrent protocol.</p>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p>excluding <a href="https://en.wikipedia.org/wiki/BitTorrent_tracker">webtorrent tracker</a> and <a href="https://www.npmjs.com/package/webtorrent-hybrid">webtorrent-hybrid</a> <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+]]></content:encoded>
+   <enclosure url="{}-480p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-576p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-720p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-1800p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-480p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-576p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-720p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-1800p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   		<itunes:subtitle><blockquote>
+  <p>The Slashdot effect, also known as slashdotting, occurs when a popular website links to a smaller website, causing a massive increase in traffic. This overloads the smaller site, causing it to slow down or even temporarily become unavailable. The name stems from the huge influx of web traffic which would result from the technology news site Slashdot linking to websites. The original circumstances have changed, as flash crowds from Slashdot were reported in 2005 to be diminishing due to competition from similar sites, and the general adoption of elastically scalable cloud hosting platforms. The effect has been associated with other websites or metablogs such as Fark, Digg, Drudge Report, Imgur, Reddit, and Twitter, leading to terms such as being “farked” or “drudged”, being under the “Reddit effect”—or receiving a “hug of death” from the site in question. Google Doodles, which link to search results on the doodle topic, also result in high increases of traffic from the search results page. Typically, less robust sites are unable to cope with the huge increase in traffic and become unavailable – common causes are lack of sufficient data bandwidth, servers that fail to cope with the high number of requests, and traffic quotas. Sites that are maintained on shared hosting services often fail when confronted with the Slashdot effect.
+A flash crowd is a more generic term without using any specific name that describes a network phenomenon where a network or host suddenly receives a lot of traffic. This is sometimes due to the appearance of a website on a blog or news column.</p>
+</blockquote>
+
+</itunes:subtitle>
+		<itunes:summary><![CDATA[<blockquote>
+  <p>The Slashdot effect, also known as slashdotting, occurs when a popular website links to a smaller website, causing a massive increase in traffic. This overloads the smaller site, causing it to slow down or even temporarily become unavailable. The name stems from the huge influx of web traffic which would result from the technology news site Slashdot linking to websites. The original circumstances have changed, as flash crowds from Slashdot were reported in 2005 to be diminishing due to competition from similar sites, and the general adoption of elastically scalable cloud hosting platforms. The effect has been associated with other websites or metablogs such as Fark, Digg, Drudge Report, Imgur, Reddit, and Twitter, leading to terms such as being “farked” or “drudged”, being under the “Reddit effect”—or receiving a “hug of death” from the site in question. Google Doodles, which link to search results on the doodle topic, also result in high increases of traffic from the search results page. Typically, less robust sites are unable to cope with the huge increase in traffic and become unavailable – common causes are lack of sufficient data bandwidth, servers that fail to cope with the high number of requests, and traffic quotas. Sites that are maintained on shared hosting services often fail when confronted with the Slashdot effect.
+A flash crowd is a more generic term without using any specific name that describes a network phenomenon where a network or host suddenly receives a lot of traffic. This is sometimes due to the appearance of a website on a blog or news column.</p>
+</blockquote>
+
+]]></itunes:summary>
+		<itunes:author>Tom Sparks</itunes:author>
+		<itunes:image href="" />
+		<itunes:episode></itunes:episode>
+		<itunes:title>How I plan on dealing with the Slashdot effect</itunes:title>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration></itunes:duration>
+		<feedburner:origLink>https://tomasparks.name/miniatures/notebook/2019/05/slashdot.html</feedburner:origLink>
+		</item>
+
+
+
+    <item>
+		<title>Sunshine Coast Maker Space - Architectural endoscope camera rig email</title>
+		<link>https://tomasparks.name/miniatures/notebook/2019/01/sg-makerspace-email.html</link>
+		<pubDate>Fri, 11 Jan 2019 00:00:00 +1000</pubDate>
+		<guid isPermaLink="false">https://tomasparks.name/miniatures/notebook/2019/01/sg-makerspace-email.html</guid>
+		<description><blockquote>
+  <p><em>Name:</em> tom sparks
+<em>Email Address:</em> tomasparks.ts@gmail.com
+<em>Subject:</em> Architectural endoscope camera rig
+<em>Message:</em> I would like to build an Architectural endoscope camera rig
+for photographing my diorama.</p>
+
+  <ul>
+    <li>the rig needs to be automated to take panorama photos at each location</li>
+    <li>Controlled / adjustable lighting conditions eg: night, daylight, sunset, sunrise, etc (darkroom / lightbox )</li>
+    <li>interchangeable camera setup</li>
+  </ul>
+
+  <p>photographs of camera rigs:
+https://tomasparks.name/miniatures/notebook/2018/11/endoscope-camera-rig.html
+https://en.wikipedia.org/wiki/Architectural_endoscopy</p>
+
+  <p><em>Im interested in:</em> Inventor Support</p>
+
+  <p>(Sent via <em>Sunshine Coast Maker Space <a href="https://www.scmakerspace.com.au">https://www.scmakerspace.com.au</a></em>)</p>
+</blockquote>
+
+</description>
+		<content:encoded><![CDATA[<blockquote>
+  <p><em>Name:</em> tom sparks
+<em>Email Address:</em> tomasparks.ts@gmail.com
+<em>Subject:</em> Architectural endoscope camera rig
+<em>Message:</em> I would like to build an Architectural endoscope camera rig
+for photographing my diorama.</p>
+
+  <ul>
+    <li>the rig needs to be automated to take panorama photos at each location</li>
+    <li>Controlled / adjustable lighting conditions eg: night, daylight, sunset, sunrise, etc (darkroom / lightbox )</li>
+    <li>interchangeable camera setup</li>
+  </ul>
+
+  <p>photographs of camera rigs:
+https://tomasparks.name/miniatures/notebook/2018/11/endoscope-camera-rig.html
+https://en.wikipedia.org/wiki/Architectural_endoscopy</p>
+
+  <p><em>Im interested in:</em> Inventor Support</p>
+
+  <p>(Sent via <em>Sunshine Coast Maker Space <a href="https://www.scmakerspace.com.au">https://www.scmakerspace.com.au</a></em>)</p>
+</blockquote>
+
+<blockquote>
+  <p>Re: Form Submission - Contact Us at The Maker Space - Architectural endoscope camera rig 
+ Dominic Vrolijks<a href="mailto:info@scmakerspace.com.au">info@scmakerspace.com.au</a>	10 January 2019 at 17:05
+To: tomasparks.ts@gmail.com</p>
+
+  <p>Hi Tom, that seems like a really interesting and challenging project!  What level of help do you need with this project?  Our members can provide support from hardware selection, programming and control, CAD design of the mechanical items, manufacturing assembly etc.  We are normally open every weekday, but I have a couple of on-site projects I am currently working on, so I would be available for a chat on Monday face to face if you’d like.</p>
+
+  <p>Kind Regards,</p>
+
+  <p>Dominic Vrolijks
+Sunshine Coast Maker Space</p>
+
+</blockquote>
+
+<blockquote>
+  <p>Tom Sparks<a href="mailto:tomasparks.ts@gmail.com">tomasparks.ts@gmail.com</a>	11 January 2019 at 11:33
+To: Dominic Vrolijks <a href="mailto:info@scmakerspace.com.au">info@scmakerspace.com.au</a>
+On 10/01/2019, Dominic Vrolijks <a href="mailto:info@scmakerspace.com.au">info@scmakerspace.com.au</a> wrote:
+Hi Tom, that seems like a really interesting and challenging project!
+What level of help do you need with this project?</p>
+
+  <p>currently it a concept</p>
+
+  <p>main ideas:</p>
+  <ul>
+    <li>top-down view of the diorama</li>
+    <li>Streetview-like Virtual tour of the diorama with adjustable lightning</li>
+  </ul>
+
+  <p>Our members can provide
+support from hardware selection, programming and control, CAD design of the
+mechanical items, manufacturing assembly etc.  We are normally open every
+weekday, but I have a couple of on-site projects I am currently working on,
+so I would be available for a chat on Monday face to face if you’d like.</p>
+
+  <p>I prefer to talk by email</p>
+
+  <p>Kind Regards,</p>
+
+  <p>Dominic Vrolijks
+<em>Sunshine Coast Maker Space <a href="https://www.scmakerspace.com.au/">https://www.scmakerspace.com.au/</a></em></p>
+
+  <p>Mob. 0427835261</p>
+</blockquote>
+
+]]></content:encoded>
+   <enclosure url="{}-480p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-576p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-720p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-1800p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-480p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-576p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-720p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-1800p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   		<itunes:subtitle><blockquote>
+  <p><em>Name:</em> tom sparks
+<em>Email Address:</em> tomasparks.ts@gmail.com
+<em>Subject:</em> Architectural endoscope camera rig
+<em>Message:</em> I would like to build an Architectural endoscope camera rig
+for photographing my diorama.</p>
+
+  <ul>
+    <li>the rig needs to be automated to take panorama photos at each location</li>
+    <li>Controlled / adjustable lighting conditions eg: night, daylight, sunset, sunrise, etc (darkroom / lightbox )</li>
+    <li>interchangeable camera setup</li>
+  </ul>
+
+  <p>photographs of camera rigs:
+https://tomasparks.name/miniatures/notebook/2018/11/endoscope-camera-rig.html
+https://en.wikipedia.org/wiki/Architectural_endoscopy</p>
+
+  <p><em>Im interested in:</em> Inventor Support</p>
+
+  <p>(Sent via <em>Sunshine Coast Maker Space <a href="https://www.scmakerspace.com.au">https://www.scmakerspace.com.au</a></em>)</p>
+</blockquote>
+
+</itunes:subtitle>
+		<itunes:summary><![CDATA[<blockquote>
+  <p><em>Name:</em> tom sparks
+<em>Email Address:</em> tomasparks.ts@gmail.com
+<em>Subject:</em> Architectural endoscope camera rig
+<em>Message:</em> I would like to build an Architectural endoscope camera rig
+for photographing my diorama.</p>
+
+  <ul>
+    <li>the rig needs to be automated to take panorama photos at each location</li>
+    <li>Controlled / adjustable lighting conditions eg: night, daylight, sunset, sunrise, etc (darkroom / lightbox )</li>
+    <li>interchangeable camera setup</li>
+  </ul>
+
+  <p>photographs of camera rigs:
+https://tomasparks.name/miniatures/notebook/2018/11/endoscope-camera-rig.html
+https://en.wikipedia.org/wiki/Architectural_endoscopy</p>
+
+  <p><em>Im interested in:</em> Inventor Support</p>
+
+  <p>(Sent via <em>Sunshine Coast Maker Space <a href="https://www.scmakerspace.com.au">https://www.scmakerspace.com.au</a></em>)</p>
+</blockquote>
+
+]]></itunes:summary>
+		<itunes:author>Tom Sparks</itunes:author>
+		<itunes:image href="" />
+		<itunes:episode></itunes:episode>
+		<itunes:title>Sunshine Coast Maker Space - Architectural endoscope camera rig email</itunes:title>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration></itunes:duration>
+		<feedburner:origLink>https://tomasparks.name/miniatures/notebook/2019/01/sg-makerspace-email.html</feedburner:origLink>
+		</item>
+
+
+
+    <item>
+		<title>Why did I buy Krpano?</title>
+		<link>https://tomasparks.name/miniatures/notebook/2018/12/krpano.html</link>
+		<pubDate>Wed, 26 Dec 2018 00:00:00 +1000</pubDate>
+		<guid isPermaLink="false">https://tomasparks.name/miniatures/notebook/2018/12/krpano.html</guid>
+		<description><p>Why did I buy <a href="https://krpano.com/">Krpano</a>?</p>
+
+</description>
+		<content:encoded><![CDATA[<p>Why did I buy <a href="https://krpano.com/">Krpano</a>?</p>
+
+<ul>
+  <li>
+    <p>I have a personal Anti-closed source software philosophy, but I am willing to compromise if the software is tri-platformed (windows, Mac, Linux) and/or has strong developer community</p>
+  </li>
+  <li>
+    <p>Krpano consented the Best in its class for panorama and virtual tours</p>
+  </li>
+</ul>
+
+<blockquote>
+  <p>krpano Panorama Viewer
+The krpano Viewer is a small and very flexible high-performance viewer for all kind of panoramic images and interactive virtual tours. The viewer is available as Flash and HTML5 application. The viewer is designed for the usage inside the Browser on Desktop (Windows, Mac, Linux) and on Mobiles/Tablets (iPhone, iPad, Android, …).</p>
+
+  <p>In addition to the krpano Viewer there are the krpano Tools - this are small tools and droplets which are helping to automatically prepare the panoramic images for viewing and making them ready-to-use. Making a pano or a tour is possible just by drag-and-drop.</p>
+</blockquote>
+
+<blockquote>
+  <p>Features
+Flash and HTML5
+The krpano Panorama Viewer is available as Flash and HTML5 viewer. Both viewers have and use the same interfaces for controlling the panos and the layout.
+High-performance and high-quality rendering
+The rendering-performance and the image-quality were and are one of the two most important features in the krpano development. Additionally there are also strong development demands to keep the viewer itself as small and efficient as possible.
+Highly-customizable
+Almost everything is customizable in the krpano viewer. There are settings for everything and adding custom settings or behaviors is possible too. krpano has a flexible and dynamic xml scripting system which allows realizing own ideas and features.
+To build user interfaces just include and arrange your images on the viewer screen.
+And for even more and deeper customizing or extending the viewer itself it is possible to include external Flash or Javascript (HTML5) plugins. See here for the all available krpano Plugins.
+Wide-range of supported panoramic formats and image file-formats
+Supported panoramic formats by the krpano Flash Panorama Viewer:
+Cube and Cubestrip Images
+Spherical Panos (360x180)
+Cylindrical Panos
+Partial Spherical, Partial Cylindrical Panos
+Flat Images
+Cubical QTVR files (.mov)
+Zoomify Images
+Object Movies (=Multi-Frame-Flat-Images)
+Panoramic Videos (Spherical, Cylindrical, Partials)
+Supported input and output image file-formats for the krpano Tools:
+JPEG (<em>.jpg, *.jpeg)
+TIFF / BigTIFF (</em>.tif, <em>.tiff, *.btf, *.tf8, *.bigtiff)
+Photoshop Document and Photoshop Big Document (</em>.psd, <em>.psb)
+Kolor Raw (</em>.kro)
+Multi-Resolution
+Loading very large images, e.g. at Gigapixel size, at once is not possible today - the loading would take ages and the memory need that would be need to display the image would be much to much for a web application. To solve this problem krpano supports a tiled Multi-Resolution loading - the large images will be resampled to several resolution levels and each level will be split up into many small tiles. And these small tiles will be loaded piece by piece and only when needed. This makes is possible to view also very large images quick and fast and with a few memory need.
+Multi-Resolution images can be generated automatically by using the krpano Tools.</p>
+</blockquote>
+
+<blockquote>
+  <p>3D Projections
+The krpano Flash viewer supports several ways for projecting the pano image on the screen:
+The normal or also called Rectilinear Projection.
+Fisheye Projection.
+Stereographic Fisheye Projection (when looking down also called ‘Little Planet View’).
+Pannini Projection (Cylindrical Fisheye / Stereographic).
+Architectural Projection.
+Every of these projection modes can be adjusted by several parameters in fine steps. Mixing and / or fading between the different projection modes is also possible.
+For example - a pano can start in with a ‘Little Planet View’ (a Stereographic Fisheye Projection) and then transit smoothly to the normal projection.</p>
+</blockquote>
+
+<blockquote>
+  <p>Virtual Tours / Hotspots / Scripting
+By linking several panos together, e.g. by Hotspots, Maps, Thumbnails, Select Boxes or any other custom actions, it is possible to build full featured virtual tours.
+The krpano Tools include MAKE VTOUR droplets for an easy and automatic generation of virtual tours. Just drop all pano images on it and done.
+Simple and complex usage at the same time
+Use the included MAKE PANO / MAKE VTOUR droplets from the krpano Tools for an easy and fully automatic generation of ready-to-use panos or virtual tours. And for more individual and complex customizing use krpano xml format and / or the Flash or Javascript interfaces.</p>
+</blockquote>
+]]></content:encoded>
+   <enclosure url="{}-480p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-576p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-720p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-1800p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-480p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-576p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-720p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-1800p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   		<itunes:subtitle><p>Why did I buy <a href="https://krpano.com/">Krpano</a>?</p>
+
+</itunes:subtitle>
+		<itunes:summary><![CDATA[<p>Why did I buy <a href="https://krpano.com/">Krpano</a>?</p>
+
+]]></itunes:summary>
+		<itunes:author>Tom Sparks</itunes:author>
+		<itunes:image href="" />
+		<itunes:episode></itunes:episode>
+		<itunes:title>Why did I buy Krpano?</itunes:title>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration></itunes:duration>
+		<feedburner:origLink>https://tomasparks.name/miniatures/notebook/2018/12/krpano.html</feedburner:origLink>
+		</item>
+
+
+
+    <item>
+		<title>Painting Methods</title>
+		<link>https://tomasparks.name/miniatures/notebook/2018/12/painting-methods.html</link>
+		<pubDate>Sat, 01 Dec 2018 00:00:00 +1000</pubDate>
+		<guid isPermaLink="false">https://tomasparks.name/miniatures/notebook/2018/12/painting-methods.html</guid>
+		<description><p>The painting methods I am going to use are:</p>
+
+</description>
+		<content:encoded><![CDATA[<p>The painting methods I am going to use are:</p>
+
+<ul>
+  <li>Dip<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup><sup id="fnref:2"><a href="#fn:2" class="footnote">2</a></sup> / immersion painting</li>
+  <li>Acrylic pen/pencils painting</li>
+</ul>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p>it’s also called hydro dip or <a href="Hydrographics">https://en.wikipedia.org/wiki/Hydrographics_(printing)</a> <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
+    </li>
+    <li id="fn:2">
+      <p>“Dip Dye paiting”, that what I looking for <a href="#fnref:2" class="reversefootnote">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+]]></content:encoded>
+   <enclosure url="{}-480p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-576p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-720p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-1800p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-480p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-576p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-720p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-1800p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   		<itunes:subtitle><p>The painting methods I am going to use are:</p>
+
+</itunes:subtitle>
+		<itunes:summary><![CDATA[<p>The painting methods I am going to use are:</p>
+
+]]></itunes:summary>
+		<itunes:author>Tom Sparks</itunes:author>
+		<itunes:image href="" />
+		<itunes:episode></itunes:episode>
+		<itunes:title>Painting Methods</itunes:title>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration></itunes:duration>
+		<feedburner:origLink>https://tomasparks.name/miniatures/notebook/2018/12/painting-methods.html</feedburner:origLink>
+		</item>
+
+
+
+    <item>
+		<title>Tools</title>
+		<link>https://tomasparks.name/miniatures/notebook/2018/11/tools.html</link>
+		<pubDate>Fri, 30 Nov 2018 00:00:00 +1000</pubDate>
+		<guid isPermaLink="false">https://tomasparks.name/miniatures/notebook/2018/11/tools.html</guid>
+		<description><h2 id="electronics">Electronics</h2>
+
+</description>
+		<content:encoded><![CDATA[<h2 id="electronics">Electronics</h2>
+
+<div class="polaroid">
+<img class="u-photo" src="/miniatures/assets/images/EPTube.jpg" alt="ELECTRIC PAINT 10ML from https://www.bareconductive.com" srcset="    /miniatures/assets/images/resized/768/EPTube.jpg 768w,    /miniatures/assets/images/resized/640/EPTube.jpg 640w, /miniatures/assets/images/EPTube.jpg 1000w" style="width:100%" />
+  <div class="container">
+    <p>ELECTRIC PAINT 10ML from https://www.bareconductive.com</p>
+  </div>
+</div>
+
+<ul>
+  <li><a href="https://www.bareconductive.com/shop/">Conductive paint</a></li>
+</ul>
+
+<div class="polaroid">
+<img class="u-photo" src="/miniatures/assets/images/EPen.jpg" alt="Circuit Scribe Conductive Ink Pen from https://www.circuitscribe.com/" srcset=" /miniatures/assets/images/EPen.jpg 600w" style="width:100%" />
+  <div class="container">
+    <p>Circuit Scribe Conductive Ink Pen from https://www.circuitscribe.com/</p>
+  </div>
+</div>
+
+<ul>
+  <li>
+    <p><a href="https://shop.circuitscribe.com/">Circuit Scribe Conductive Ink Pen</a></p>
+  </li>
+  <li>Multimeter</li>
+  <li>Led tester</li>
+  <li>embossing heat guns</li>
+</ul>
+
+<h2 id="pen-plotter-pens">Pen plotter pens</h2>
+
+<div class="polaroid">
+<img class="u-photo" src="/miniatures/assets/images/EPen.jpg" alt="Circuit Scribe Conductive Ink Pen from https://www.circuitscribe.com/" srcset=" /miniatures/assets/images/EPen.jpg 600w" style="width:100%" />
+  <div class="container">
+    <p>Circuit Scribe Conductive Ink Pen from https://www.circuitscribe.com/</p>
+  </div>
+</div>
+
+<ul>
+  <li>
+    <p><a href="https://shop.circuitscribe.com/">Circuit Scribe Conductive Ink Pen</a>, DO I need two?</p>
+  </li>
+  <li>Cutter</li>
+  <li>pen</li>
+</ul>
+
+<h2 id="papercraft">papercraft</h2>
+
+<ul>
+  <li>pin vise drill</li>
+  <li>white glue</li>
+  <li>glue stick</li>
+</ul>
+
+<h2 id="docunmenting">Docunmenting</h2>
+
+<ul>
+  <li>3x 1080p webcameras</li>
+  <li>3x arms</li>
+  <li>3x Light rigs</li>
+</ul>
+]]></content:encoded>
+   <enclosure url="{}-480p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-576p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-720p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-1800p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-480p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-576p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-720p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-1800p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   		<itunes:subtitle><h2 id="electronics">Electronics</h2>
+
+</itunes:subtitle>
+		<itunes:summary><![CDATA[<h2 id="electronics">Electronics</h2>
+
+]]></itunes:summary>
+		<itunes:author>Tom Sparks</itunes:author>
+		<itunes:image href="" />
+		<itunes:episode></itunes:episode>
+		<itunes:title>Tools</itunes:title>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration></itunes:duration>
+		<feedburner:origLink>https://tomasparks.name/miniatures/notebook/2018/11/tools.html</feedburner:origLink>
+		</item>
+
+
+
+    <item>
+		<title>Endoscope Camera Rig</title>
+		<link>https://tomasparks.name/miniatures/notebook/2018/11/endoscope-camera-rig.html</link>
+		<pubDate>Tue, 27 Nov 2018 00:00:00 +1000</pubDate>
+		<guid isPermaLink="false">https://tomasparks.name/miniatures/notebook/2018/11/endoscope-camera-rig.html</guid>
+		<description><p>I looked through <a href="https://en.wikipedia.org/wiki/Architectural_endoscopy">Architectural endoscopy</a> Articles, I came across these images</p>
+
+</description>
+		<content:encoded><![CDATA[<p>I looked through <a href="https://en.wikipedia.org/wiki/Architectural_endoscopy">Architectural endoscopy</a> Articles, I came across these images</p>
+
+<p>sorry for the low quailty of the images</p>
+
+<div class="polaroid">
+<img class="u-photo" src="/miniatures/assets/images/e-camerarig-01.jpg" alt="" srcset=" /miniatures/assets/images/e-camerarig-01.jpg 640w" style="width:100%" />
+  <div class="container">
+    <p></p>
+  </div>
+</div>
+
+<div class="polaroid">
+<img class="u-photo" src="/miniatures/assets/images/e-camerarig-05.png" alt="" srcset=" /miniatures/assets/images/e-camerarig-05.png 213w" style="width:100%" />
+  <div class="container">
+    <p></p>
+  </div>
+</div>
+
+<div class="polaroid">
+<img class="u-photo" src="/miniatures/assets/images/e-camerarig-06.png" alt="" srcset=" /miniatures/assets/images/e-camerarig-06.png 295w" style="width:100%" />
+  <div class="container">
+    <p></p>
+  </div>
+</div>
+
+<div class="polaroid">
+<img class="u-photo" src="/miniatures/assets/images/e-camerarig-07.png" alt="" srcset=" /miniatures/assets/images/e-camerarig-07.png 595w" style="width:100%" />
+  <div class="container">
+    <p></p>
+  </div>
+</div>
+
+]]></content:encoded>
+   <enclosure url="{}-480p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-576p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-720p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-1800p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-480p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-576p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-720p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-1800p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   		<itunes:subtitle><p>I looked through <a href="https://en.wikipedia.org/wiki/Architectural_endoscopy">Architectural endoscopy</a> Articles, I came across these images</p>
+
+</itunes:subtitle>
+		<itunes:summary><![CDATA[<p>I looked through <a href="https://en.wikipedia.org/wiki/Architectural_endoscopy">Architectural endoscopy</a> Articles, I came across these images</p>
+
+]]></itunes:summary>
+		<itunes:author>Tom Sparks</itunes:author>
+		<itunes:image href="" />
+		<itunes:episode></itunes:episode>
+		<itunes:title>Endoscope Camera Rig</itunes:title>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration></itunes:duration>
+		<feedburner:origLink>https://tomasparks.name/miniatures/notebook/2018/11/endoscope-camera-rig.html</feedburner:origLink>
+		</item>
+
+
+
+    <item>
+		<title>You should contact / join X DRAFT</title>
+		<link>https://tomasparks.name/miniatures/notebook/2018/11/you-should-contact-x.html</link>
+		<pubDate>Sat, 24 Nov 2018 00:00:00 +1000</pubDate>
+		<guid isPermaLink="false">https://tomasparks.name/miniatures/notebook/2018/11/you-should-contact-x.html</guid>
+		<description><p>I am the person in that sits in the center of the <a href="https://en.wikipedia.org/wiki/Venn_diagram">Venn digram</a> with most of my projects</p>
+
+</description>
+		<content:encoded><![CDATA[<p>I am the person in that sits in the center of the <a href="https://en.wikipedia.org/wiki/Venn_diagram">Venn digram</a> with most of my projects</p>
+
+<h2 id="model-railway-groups">Model railway groups</h2>
+
+<ul>
+  <li>i’ve been reading <a href="https://model-railroad-hobbyist.com/">MRH emag</a></li>
+  <li>I contacted <a href="https://www.nmra.org/">National Model Railroad Association</a> (NMRA) about setting up Special Interest Group (SIG) for <a href="/miniatures/notebook/2018/08/dcc.html">DCC (Digital Command Control) for non model railway uses</a></li>
+</ul>
+
+<h3 id="first-person-panoramaic-photos">First-person panoramaic photos</h3>
+
+<ol>
+  <li>google’s streetview of <a href="https://www.google.com/maps/about/behind-the-scenes/streetview/treks/miniatur-wunderland/">miniatur wunderland</a> was done with modified action camera with a custom fisheye lens
+see <a href="https://ubilabs.net/en/projects/miniatur-wunderland">Miniatur Wunderland Street View Trek</a> and <a href="https://www.vice.com/en_uk/article/vvyqbd/miniatur-wunderland-street-view">Explore a Map of Hamburg’s Miniatur Wunderland in Street View
+</a> for more information and photographs</li>
+  <li><a href="https://www.hypergridbusiness.com/2016/08/team-shows-how-to-overcome-vr-movie-shooting-challenges/">Miniature sets pose unique challenges for 360-degree videos</a> they use a off-the-shelf panorama video camera.</li>
+</ol>
+
+<h2 id="paper--cardboard-modelers">Paper / Cardboard Modelers</h2>
+
+<h2 id="paper--cardboard-craftters">Paper / Cardboard Craftters</h2>
+
+<ul>
+  <li>There is a <a href="https://learn.sparkfun.com/tutorials/the-great-big-guide-to-paper-circuits">paper circuit guide</a> by sparkfun</li>
+  <li>I’ve been searching the web, I’ve only be able to find two projects that used adavance electronics
+    <ol>
+      <li><a href="https://www.instructables.com/id/Paperduino-20-with-Circuit-Scribe/">Paperduino</a></li>
+      <li><a href="https://learn.adafruit.com/adafruit-neopixel-uberguide">Addressable leds</a><sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup></li>
+    </ol>
+  </li>
+  <li>forget fiber optics</li>
+</ul>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p>they are not truly addressable, but connected via a <a href="https://en.wikipedia.org/wiki/Daisy_chain_(electrical_engineering)">daisy chain</a> <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+]]></content:encoded>
+   <enclosure url="{}-480p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-576p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-720p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-1800p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-480p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-576p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-720p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-1800p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   		<itunes:subtitle><p>I am the person in that sits in the center of the <a href="https://en.wikipedia.org/wiki/Venn_diagram">Venn digram</a> with most of my projects</p>
+
+</itunes:subtitle>
+		<itunes:summary><![CDATA[<p>I am the person in that sits in the center of the <a href="https://en.wikipedia.org/wiki/Venn_diagram">Venn digram</a> with most of my projects</p>
+
+]]></itunes:summary>
+		<itunes:author>Tom Sparks</itunes:author>
+		<itunes:image href="" />
+		<itunes:episode></itunes:episode>
+		<itunes:title>You should contact / join X DRAFT</itunes:title>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration></itunes:duration>
+		<feedburner:origLink>https://tomasparks.name/miniatures/notebook/2018/11/you-should-contact-x.html</feedburner:origLink>
+		</item>
+
+
+
+    <item>
+		<title>Creating a Streetview for Dioramas UPDATE</title>
+		<link>https://tomasparks.name/miniatures/notebook/2018/11/streetview-diorama-update.html</link>
+		<pubDate>Sat, 10 Nov 2018 00:00:00 +1000</pubDate>
+		<guid isPermaLink="false">https://tomasparks.name/miniatures/notebook/2018/11/streetview-diorama-update.html</guid>
+		<description><p>I have abandonned the <a href="http://phototour.cs.washington.edu/">Photo tourism</a> software and I am looking at <a href="http://phototour.cs.washington.edu/imagegraphs/">“Image connectivity graph”</a></p>
+
+</description>
+		<content:encoded><![CDATA[<p>I have abandonned the <a href="http://phototour.cs.washington.edu/">Photo tourism</a> software and I am looking at <a href="http://phototour.cs.washington.edu/imagegraphs/">“Image connectivity graph”</a></p>
+
+<blockquote>
+  <p>Once all pairs of images have been matched,
+we can construct an image connectivity graph to represent the connections between the images in the collection.
+An image connectivity graph contains a node for each image,
+and an edge between any pair of images that have matching features.</p>
+
+  <p>To create this visualization, the graph was embedded in the plane using the neato tool in the <a href="https://www.graphviz.org/">Graphviz graph visualization toolkit</a>.
+Neato works by modeling the graph as a mass-spring system and solving for an embedding whose energy is a local minimum.</p>
+
+  <p>The image connectivity graph for this collection has several notable properties. There is a large, dense cluster
+in the center of the graph that consists of photos that are mostly wide-angle, frontal, well-lit shots of the fountain [such as (a)].
+Other images, including the “leaf” nodes [such as (b) and (c)] corresponding to tightly cropped details,
+and nighttime images [such as (d)], are more loosely connected to this core set.</p>
+</blockquote>
+
+<div class="polaroid">
+<img class="u-photo" src="/miniatures/assets/images/Imgcg.png" alt="Image connectivity graph for the Trevi Fountain. This graph contains a node (red dot) for each image in a set of photos of the Trevi Fountain, and an edge between each pair of photos with matching points. The size of a node is proportional to its degree. There are two dominant clusters corresponding to daytime photos e.g., image (a) and nighttime photos image (d). Similar views of the facade are clustered together in the center of the graph, while nodes in the periphery of the graph, e.g., (b) and (c), are more unusual (often closeup) views." srcset="    /miniatures/assets/images/resized/1366/Imgcg.png 1366w,    /miniatures/assets/images/resized/1024/Imgcg.png 1024w,    /miniatures/assets/images/resized/768/Imgcg.png 768w,    /miniatures/assets/images/resized/640/Imgcg.png 640w, /miniatures/assets/images/Imgcg.png 1500w" style="width:100%" />
+  <div class="container">
+    <p>Image connectivity graph for the Trevi Fountain. This graph contains a node (red dot) for each image in a set of photos of the Trevi Fountain, and an edge between each pair of photos with matching points. The size of a node is proportional to its degree. There are two dominant clusters corresponding to daytime photos e.g., image (a) and nighttime photos image (d). Similar views of the facade are clustered together in the center of the graph, while nodes in the periphery of the graph, e.g., (b) and (c), are more unusual (often closeup) views.</p>
+  </div>
+</div>
+
+<p>there are few open question to answers:</p>
+
+<ul>
+  <li><a href="https://en.wikipedia.org/wiki/Image_stitching">Stitching images</a> for <a href="https://en.wikipedia.org/wiki/Panorama">panoramas</a> nodes.</li>
+  <li>converting to panoramaic virtual tour.</li>
+</ul>
+
+<p>I am going to do testing with a image dataset from <a href="https://cyan.com/">Cyan</a>’s <a href="https://cyan.com/games/myst/">Myst</a> and <a href="https://cyan.com/games/riven/">Riven</a> games<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup></p>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p>I own the games from <a href="http://www.gog.com">gog.com</a>, I have DVD/CD-ROMs somewhere<sup id="fnref:2"><a href="#fn:2" class="footnote">2</a></sup> <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
+    </li>
+    <li id="fn:2">
+      <p>Do I, the may have gone out in the clean out after the <a href="https://en.wikipedia.org/wiki/2010%E2%80%9311_Queensland_floods">Queensland 2010-11 flood</a> <a href="#fnref:2" class="reversefootnote">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+]]></content:encoded>
+   <enclosure url="{}-480p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-576p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-720p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-1800p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-480p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-576p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-720p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-1800p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   		<itunes:subtitle><p>I have abandonned the <a href="http://phototour.cs.washington.edu/">Photo tourism</a> software and I am looking at <a href="http://phototour.cs.washington.edu/imagegraphs/">“Image connectivity graph”</a></p>
+
+</itunes:subtitle>
+		<itunes:summary><![CDATA[<p>I have abandonned the <a href="http://phototour.cs.washington.edu/">Photo tourism</a> software and I am looking at <a href="http://phototour.cs.washington.edu/imagegraphs/">“Image connectivity graph”</a></p>
+
+]]></itunes:summary>
+		<itunes:author>Tom Sparks</itunes:author>
+		<itunes:image href="" />
+		<itunes:episode></itunes:episode>
+		<itunes:title>Creating a Streetview for Dioramas UPDATE</itunes:title>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration></itunes:duration>
+		<feedburner:origLink>https://tomasparks.name/miniatures/notebook/2018/11/streetview-diorama-update.html</feedburner:origLink>
+		</item>
+
+
+
+    <item>
+		<title>Dark Room</title>
+		<link>https://tomasparks.name/miniatures/notebook/2018/10/darkroom-diorama.html</link>
+		<pubDate>Wed, 31 Oct 2018 00:00:00 +1000</pubDate>
+		<guid isPermaLink="false">https://tomasparks.name/miniatures/notebook/2018/10/darkroom-diorama.html</guid>
+		<description><p>I am starting to reliase I may need a darkroom to control the lighting of the diorama because I would like to do two different lighting enivorments
+ ( day and night ) and I dont know how long the <a href="/miniatures/notebook/2018/10/streetview-diorama.html">robot</a> well take to photograph each location.</p>
+</description>
+		<content:encoded><![CDATA[<p>I am starting to reliase I may need a darkroom to control the lighting of the diorama because I would like to do two different lighting enivorments
+ ( day and night ) and I dont know how long the <a href="/miniatures/notebook/2018/10/streetview-diorama.html">robot</a> well take to photograph each location.</p>
+]]></content:encoded>
+   <enclosure url="{}-480p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-576p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-720p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-1800p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-480p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-576p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-720p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-1800p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   		<itunes:subtitle><p>I am starting to reliase I may need a darkroom to control the lighting of the diorama because I would like to do two different lighting enivorments
+ ( day and night ) and I dont know how long the <a href="/miniatures/notebook/2018/10/streetview-diorama.html">robot</a> well take to photograph each location.</p>
+</itunes:subtitle>
+		<itunes:summary><![CDATA[<p>I am starting to reliase I may need a darkroom to control the lighting of the diorama because I would like to do two different lighting enivorments
+ ( day and night ) and I dont know how long the <a href="/miniatures/notebook/2018/10/streetview-diorama.html">robot</a> well take to photograph each location.</p>
+]]></itunes:summary>
+		<itunes:author>Tom Sparks</itunes:author>
+		<itunes:image href="" />
+		<itunes:episode></itunes:episode>
+		<itunes:title>Dark Room</itunes:title>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration></itunes:duration>
+		<feedburner:origLink>https://tomasparks.name/miniatures/notebook/2018/10/darkroom-diorama.html</feedburner:origLink>
+		</item>
+
+
+
+    <item>
+		<title>documenting the produce</title>
+		<link>https://tomasparks.name/miniatures/notebook/2018/10/documenting.html</link>
+		<pubDate>Tue, 23 Oct 2018 00:00:00 +1000</pubDate>
+		<guid isPermaLink="false">https://tomasparks.name/miniatures/notebook/2018/10/documenting.html</guid>
+		<description><h2 id="filming">Filming</h2>
+
+<h3 id="computing">Computing</h3>
+
+<p>I may not film the work I do on my computer.</p>
+
+<h3 id="live-action">live action</h3>
+
+<p>Using a <a href="">overhead camera rig</a> and camera, I can film the proccess</p>
+
+</description>
+		<content:encoded><![CDATA[<h2 id="filming">Filming</h2>
+
+<h3 id="computing">Computing</h3>
+
+<p>I may not film the work I do on my computer.</p>
+
+<h3 id="live-action">live action</h3>
+
+<p>Using a <a href="">overhead camera rig</a> and camera, I can film the proccess</p>
+
+]]></content:encoded>
+   <enclosure url="{}-480p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-576p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-720p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-1800p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-480p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-576p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-720p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-1800p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   		<itunes:subtitle><h2 id="filming">Filming</h2>
+
+<h3 id="computing">Computing</h3>
+
+<p>I may not film the work I do on my computer.</p>
+
+<h3 id="live-action">live action</h3>
+
+<p>Using a <a href="">overhead camera rig</a> and camera, I can film the proccess</p>
+
+</itunes:subtitle>
+		<itunes:summary><![CDATA[<h2 id="filming">Filming</h2>
+
+<h3 id="computing">Computing</h3>
+
+<p>I may not film the work I do on my computer.</p>
+
+<h3 id="live-action">live action</h3>
+
+<p>Using a <a href="">overhead camera rig</a> and camera, I can film the proccess</p>
+
+]]></itunes:summary>
+		<itunes:author>Tom Sparks</itunes:author>
+		<itunes:image href="" />
+		<itunes:episode></itunes:episode>
+		<itunes:title>documenting the produce</itunes:title>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration></itunes:duration>
+		<feedburner:origLink>https://tomasparks.name/miniatures/notebook/2018/10/documenting.html</feedburner:origLink>
+		</item>
+
+
+
+    <item>
+		<title>Creating a Deepzoom map for Dioramas</title>
+		<link>https://tomasparks.name/miniatures/notebook/2018/10/deepzoom-map.html</link>
+		<pubDate>Tue, 09 Oct 2018 00:00:00 +1000</pubDate>
+		<guid isPermaLink="false">https://tomasparks.name/miniatures/notebook/2018/10/deepzoom-map.html</guid>
+		<description><p>The goal is to create a <a href="https://en.wikipedia.org/wiki/Deep_Zoom">“Deep Zoom”</a> map of my dioramas.</p>
+
+</description>
+		<content:encoded><![CDATA[<p>The goal is to create a <a href="https://en.wikipedia.org/wiki/Deep_Zoom">“Deep Zoom”</a> map of my dioramas.</p>
+
+<h2 id="software">Software</h2>
+<p>unlike <a href="_posts/2018-10-08-streetview-Diorama.md">streetview</a> the deep Zoom format is very easy to create because it is based on the tiled web map “standard”</p>
+
+<div class="polaroid">
+<img class="u-photo" src="/miniatures/assets/images/Tiled_web_map.png" alt="exploped tile web map example" srcset="    /miniatures/assets/images/resized/1600/Tiled_web_map.png 1600w,    /miniatures/assets/images/resized/1366/Tiled_web_map.png 1366w,    /miniatures/assets/images/resized/1024/Tiled_web_map.png 1024w,    /miniatures/assets/images/resized/768/Tiled_web_map.png 768w,    /miniatures/assets/images/resized/640/Tiled_web_map.png 640w, /miniatures/assets/images/Tiled_web_map.png 1802w" style="width:100%" />
+  <div class="container">
+    <p>exploped tile web map example</p>
+  </div>
+</div>
+
+<blockquote>
+  <p>Properties of tiled web maps that require convention or standards include the size of tiles, the numbering of zoom levels, the projection to use, the way individual tiles are numbered or otherwise identified, and the method for requesting them.
+Most tiled web maps follow certain Google Maps conventions:</p>
+
+  <p>Tiles are 256x256 pixels</p>
+
+  <p>At the outer most zoom level, 0, the entire world can be rendered in a single map tile.</p>
+
+  <p>Each zoom level doubles in both dimensions, so a single tile is replaced by 4 tiles when zooming in. This means that about 22 zoom levels are  sufficient for most practical purposes.</p>
+</blockquote>
+
+<div class="polaroid">
+<img class="u-photo" src="/miniatures/assets/images/TilePyramid.jpg" alt="tile Pyramid example" srcset="    /miniatures/assets/images/resized/1366/TilePyramid.jpg 1366w,    /miniatures/assets/images/resized/1024/TilePyramid.jpg 1024w,    /miniatures/assets/images/resized/768/TilePyramid.jpg 768w,    /miniatures/assets/images/resized/640/TilePyramid.jpg 640w, /miniatures/assets/images/TilePyramid.jpg 1475w" style="width:100%" />
+  <div class="container">
+    <p>tile Pyramid example</p>
+  </div>
+</div>
+
+<blockquote>
+
+  <p>The Web Mercator projection is used, with latitude limits of around 85 degrees.</p>
+
+  <p>The de facto OpenStreetMap standard, known as Slippy Map Tilenames[2] or XYZ,[3] follows these and adds more:</p>
+
+  <p>An X and Y numbering scheme</p>
+
+  <p>PNG images for tiles</p>
+
+  <p>Images are served through a Web server, with a URL like http://…/Z/X/Y.png, where Z is the zoom level, and X and Y identify the tile.</p>
+
+  <p>Tile numbering schemes</p>
+
+  <p>There are three main numbering schemes in use:[4]</p>
+
+  <p>Google Maps / OpenStreetMap: (0 to 2zoom-1, 0 to 2zoom-1) for the range (-180, +85.0511) - (+180, -85.0511)</p>
+
+  <p>Tile Map Service: (0 to 2zoom-1, 2zoom-1 to 0) for the range (-180, +85.0511) - (+180, -85.0511). (That is, the same as the previous with the Y value flipped.) QuadTrees, used by Microsoft.</p>
+
+</blockquote>
+
+<h2 id="hardware">Hardware</h2>
+
+<div class="polaroid">
+<img class="u-photo" src="/miniatures/assets/images/overhead-crane.png" alt="overhead crane / Gantry crane image sourced from www.indiamart.com/" srcset=" /miniatures/assets/images/overhead-crane.png 500w" style="width:100%" />
+  <div class="container">
+    <p>overhead crane / Gantry crane image sourced from www.indiamart.com/</p>
+  </div>
+</div>
+
+]]></content:encoded>
+   <enclosure url="{}-480p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-576p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-720p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-1800p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-480p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-576p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-720p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-1800p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   		<itunes:subtitle><p>The goal is to create a <a href="https://en.wikipedia.org/wiki/Deep_Zoom">“Deep Zoom”</a> map of my dioramas.</p>
+
+</itunes:subtitle>
+		<itunes:summary><![CDATA[<p>The goal is to create a <a href="https://en.wikipedia.org/wiki/Deep_Zoom">“Deep Zoom”</a> map of my dioramas.</p>
+
+]]></itunes:summary>
+		<itunes:author>Tom Sparks</itunes:author>
+		<itunes:image href="" />
+		<itunes:episode></itunes:episode>
+		<itunes:title>Creating a Deepzoom map for Dioramas</itunes:title>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration></itunes:duration>
+		<feedburner:origLink>https://tomasparks.name/miniatures/notebook/2018/10/deepzoom-map.html</feedburner:origLink>
+		</item>
+
+
+
+    <item>
+		<title>Creating a Streetview for Dioramas</title>
+		<link>https://tomasparks.name/miniatures/notebook/2018/10/streetview-diorama.html</link>
+		<pubDate>Mon, 08 Oct 2018 00:00:00 +1000</pubDate>
+		<guid isPermaLink="false">https://tomasparks.name/miniatures/notebook/2018/10/streetview-diorama.html</guid>
+		<description><p>The goal is to create a <a href="https://en.wikipedia.org/wiki/Google_Street_View">“Street View”</a><sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup> of my dioramas.</p>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p>there are program that can create panoramic <a href="https://en.wikipedia.org/wiki/Virtual_tour">Virtual tour</a> software like easypano’s <a href="https://www.easypano.com/virtual-tour-software.html">Tourweaver</a> <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+</description>
+		<content:encoded><![CDATA[<p>The goal is to create a <a href="https://en.wikipedia.org/wiki/Google_Street_View">“Street View”</a><sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup> of my dioramas.</p>
+
+<h2 id="software">Software</h2>
+<p>the “best” tool is Google’s Street view but it is closed sourced.
+I came across <a href="https://en.wikipedia.org/wiki/Photosynth">Photosynth</a> by Microsoft Labs, but its <a href="https://news.softpedia.com/news/microsoft-officially-kills-off-photosynth-512674.shtml">dead</a>.
+Lucky the underlying <a href="http://phototour.cs.washington.edu/">research and software</a> is open-source to a point, but with one gotcha there is no open-source viewer.
+Why did I choice <a href="http://phototour.cs.washington.edu/">Photo tourism</a> mostly because of its <a href="https://en.wikipedia.org/wiki/Command-line_interface">command line</a> and photo only requirements.</p>
+
+<h2 id="hardware">Hardware</h2>
+
+<p>I am looking for <a href="https://en.wikipedia.org/wiki/Motion_control">motion control rig</a> that can place an <a href="https://en.wikipedia.org/wiki/Endoscope">endoscope</a> camera any where on the diorama, there are three different ways to position the camera:</p>
+
+<p><a href="">Robotic Arm</a></p>
+
+<div class="polaroid">
+<img class="u-photo" src="/miniatures/assets/images/overhead-crane.png" alt="overhead crane / Gantry crane image sourced from www.indiamart.com/" srcset=" /miniatures/assets/images/overhead-crane.png 500w" style="width:100%" />
+  <div class="container">
+    <p>overhead crane / Gantry crane image sourced from www.indiamart.com/</p>
+  </div>
+</div>
+
+<div class="polaroid">
+<img class="u-photo" src="/miniatures/assets/images/spidercam.jpg" alt="spider camera image sourced from wikimedia Commons" srcset="    /miniatures/assets/images/resized/1920/spidercam.jpg 1920w,    /miniatures/assets/images/resized/1600/spidercam.jpg 1600w,    /miniatures/assets/images/resized/1366/spidercam.jpg 1366w,    /miniatures/assets/images/resized/1024/spidercam.jpg 1024w,    /miniatures/assets/images/resized/768/spidercam.jpg 768w,    /miniatures/assets/images/resized/640/spidercam.jpg 640w, /miniatures/assets/images/spidercam.jpg 2475w" style="width:100%" />
+  <div class="container">
+    <p>spider camera image sourced from wikimedia Commons</p>
+  </div>
+</div>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p>there are program that can create panoramic <a href="https://en.wikipedia.org/wiki/Virtual_tour">Virtual tour</a> software like easypano’s <a href="https://www.easypano.com/virtual-tour-software.html">Tourweaver</a> <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+]]></content:encoded>
+   <enclosure url="{}-480p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-576p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-720p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-1800p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-480p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-576p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-720p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-1800p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   		<itunes:subtitle><p>The goal is to create a <a href="https://en.wikipedia.org/wiki/Google_Street_View">“Street View”</a><sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup> of my dioramas.</p>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p>there are program that can create panoramic <a href="https://en.wikipedia.org/wiki/Virtual_tour">Virtual tour</a> software like easypano’s <a href="https://www.easypano.com/virtual-tour-software.html">Tourweaver</a> <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+</itunes:subtitle>
+		<itunes:summary><![CDATA[<p>The goal is to create a <a href="https://en.wikipedia.org/wiki/Google_Street_View">“Street View”</a><sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup> of my dioramas.</p>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p>there are program that can create panoramic <a href="https://en.wikipedia.org/wiki/Virtual_tour">Virtual tour</a> software like easypano’s <a href="https://www.easypano.com/virtual-tour-software.html">Tourweaver</a> <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+]]></itunes:summary>
+		<itunes:author>Tom Sparks</itunes:author>
+		<itunes:image href="" />
+		<itunes:episode></itunes:episode>
+		<itunes:title>Creating a Streetview for Dioramas</itunes:title>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration></itunes:duration>
+		<feedburner:origLink>https://tomasparks.name/miniatures/notebook/2018/10/streetview-diorama.html</feedburner:origLink>
+		</item>
+
+
+
+    <item>
+		<title>3D Topographic map inside of Shadowbox</title>
+		<link>https://tomasparks.name/miniatures/notebook/2018/09/3d-topo-map.html</link>
+		<pubDate>Tue, 25 Sep 2018 00:00:00 +1000</pubDate>
+		<guid isPermaLink="false">https://tomasparks.name/miniatures/notebook/2018/09/3d-topo-map.html</guid>
+		<description>
+<div class="polaroid">
+<img class="u-photo" src="/miniatures/assets/images/3d-map.jpg" alt="3D map" srcset="    /miniatures/assets/images/resized/1024/3d-map.jpg 1024w,    /miniatures/assets/images/resized/768/3d-map.jpg 768w,    /miniatures/assets/images/resized/640/3d-map.jpg 640w, /miniatures/assets/images/3d-map.jpg 1280w" style="width:100%" />
+  <div class="container">
+    <p>3D map</p>
+  </div>
+</div>
+
+</description>
+		<content:encoded><![CDATA[
+<div class="polaroid">
+<img class="u-photo" src="/miniatures/assets/images/3d-map.jpg" alt="3D map" srcset="    /miniatures/assets/images/resized/1024/3d-map.jpg 1024w,    /miniatures/assets/images/resized/768/3d-map.jpg 768w,    /miniatures/assets/images/resized/640/3d-map.jpg 640w, /miniatures/assets/images/3d-map.jpg 1280w" style="width:100%" />
+  <div class="container">
+    <p>3D map</p>
+  </div>
+</div>
+
+<p>While looking for papercraft diorama ideas I cam across this photo witch has inspired me to do my own.
+but I am unsure of the art style I want do <a href="https://en.wikipedia.org/wiki/The_Lego_Group">lego</a>/<a href="https://en.wikipedia.org/wiki/Minecraft">minecraft</a> or</p>
+
+<p><img src="" />
+3d printed minecraft</p>
+
+<p><img src="" />
+lego</p>
+
+]]></content:encoded>
+   <enclosure url="{}-480p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-576p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-720p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-1800p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-480p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-576p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-720p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-1800p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   		<itunes:subtitle>
+<div class="polaroid">
+<img class="u-photo" src="/miniatures/assets/images/3d-map.jpg" alt="3D map" srcset="    /miniatures/assets/images/resized/1024/3d-map.jpg 1024w,    /miniatures/assets/images/resized/768/3d-map.jpg 768w,    /miniatures/assets/images/resized/640/3d-map.jpg 640w, /miniatures/assets/images/3d-map.jpg 1280w" style="width:100%" />
+  <div class="container">
+    <p>3D map</p>
+  </div>
+</div>
+
+</itunes:subtitle>
+		<itunes:summary><![CDATA[
+<div class="polaroid">
+<img class="u-photo" src="/miniatures/assets/images/3d-map.jpg" alt="3D map" srcset="    /miniatures/assets/images/resized/1024/3d-map.jpg 1024w,    /miniatures/assets/images/resized/768/3d-map.jpg 768w,    /miniatures/assets/images/resized/640/3d-map.jpg 640w, /miniatures/assets/images/3d-map.jpg 1280w" style="width:100%" />
+  <div class="container">
+    <p>3D map</p>
+  </div>
+</div>
+
+]]></itunes:summary>
+		<itunes:author>Tom Sparks</itunes:author>
+		<itunes:image href="" />
+		<itunes:episode></itunes:episode>
+		<itunes:title>3D Topographic map inside of Shadowbox</itunes:title>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration></itunes:duration>
+		<feedburner:origLink>https://tomasparks.name/miniatures/notebook/2018/09/3d-topo-map.html</feedburner:origLink>
+		</item>
+
+
+
+    <item>
+		<title>papercraft / Papercraft rules</title>
+		<link>https://tomasparks.name/miniatures/notebook/2018/09/papercraft.html</link>
+		<pubDate>Wed, 19 Sep 2018 00:00:00 +1000</pubDate>
+		<guid isPermaLink="false">https://tomasparks.name/miniatures/notebook/2018/09/papercraft.html</guid>
+		<description><p>I’ve been boucing the idea around of doing a few Diorama</p>
+
+<p>I started to look at the idea after I bought my 3d printer,
+but it was <a href="/miniatures/notebook/2018/07/3dprinter-experiment.html">unsucessfull</a></p>
+
+<p>I am relooking at the idea from a papercrafting view</p>
+
+<h2 id="papercraft-rules">Papercraft rules</h2>
+
+<ul>
+  <li>95% of work needs to be done on the <a href="">pen plotter</a></li>
+  <li>no ink/laser printer<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup></li>
+</ul>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p>Commercial printing for wallpaper/textured paper excluded. <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+</description>
+		<content:encoded><![CDATA[<p>I’ve been boucing the idea around of doing a few Diorama</p>
+
+<p>I started to look at the idea after I bought my 3d printer,
+but it was <a href="/miniatures/notebook/2018/07/3dprinter-experiment.html">unsucessfull</a></p>
+
+<p>I am relooking at the idea from a papercrafting view</p>
+
+<h2 id="papercraft-rules">Papercraft rules</h2>
+
+<ul>
+  <li>95% of work needs to be done on the <a href="">pen plotter</a></li>
+  <li>no ink/laser printer<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup></li>
+</ul>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p>Commercial printing for wallpaper/textured paper excluded. <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+]]></content:encoded>
+   <enclosure url="{}-480p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-576p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-720p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-1800p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-480p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-576p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-720p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-1800p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   		<itunes:subtitle><p>I’ve been boucing the idea around of doing a few Diorama</p>
+
+<p>I started to look at the idea after I bought my 3d printer,
+but it was <a href="/miniatures/notebook/2018/07/3dprinter-experiment.html">unsucessfull</a></p>
+
+<p>I am relooking at the idea from a papercrafting view</p>
+
+<h2 id="papercraft-rules">Papercraft rules</h2>
+
+<ul>
+  <li>95% of work needs to be done on the <a href="">pen plotter</a></li>
+  <li>no ink/laser printer<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup></li>
+</ul>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p>Commercial printing for wallpaper/textured paper excluded. <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+</itunes:subtitle>
+		<itunes:summary><![CDATA[<p>I’ve been boucing the idea around of doing a few Diorama</p>
+
+<p>I started to look at the idea after I bought my 3d printer,
+but it was <a href="/miniatures/notebook/2018/07/3dprinter-experiment.html">unsucessfull</a></p>
+
+<p>I am relooking at the idea from a papercrafting view</p>
+
+<h2 id="papercraft-rules">Papercraft rules</h2>
+
+<ul>
+  <li>95% of work needs to be done on the <a href="">pen plotter</a></li>
+  <li>no ink/laser printer<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup></li>
+</ul>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p>Commercial printing for wallpaper/textured paper excluded. <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+]]></itunes:summary>
+		<itunes:author>Tom Sparks</itunes:author>
+		<itunes:image href="" />
+		<itunes:episode></itunes:episode>
+		<itunes:title>papercraft / Papercraft rules</itunes:title>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration></itunes:duration>
+		<feedburner:origLink>https://tomasparks.name/miniatures/notebook/2018/09/papercraft.html</feedburner:origLink>
+		</item>
+
+
+
+    <item>
+		<title>DCC (Digital Command Control) for non model railway uses</title>
+		<link>https://tomasparks.name/miniatures/notebook/2018/08/dcc.html</link>
+		<pubDate>Wed, 15 Aug 2018 00:00:00 +1000</pubDate>
+		<guid isPermaLink="false">https://tomasparks.name/miniatures/notebook/2018/08/dcc.html</guid>
+		<description><p>Currently <a href="https://en.wikipedia.org/wiki/Digital_Command_Control">DCC (Digital Command Control)</a> is beening used in <a href="https://en.wikipedia.org/wiki/Rail_transport_modelling">model railways setups</a>,
+but I can see other uses within the widder modelling communtiy</p>
+
+<ul>
+  <li>static Displays</li>
+  <li>modular diaramas</li>
+  <li>wargaming</li>
+</ul>
+
+<h2 id="static-displays">Static displays</h2>
+
+<p>there are modellers who put their “completed”<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup> models in display cases/cabinets, the models are usally group together.</p>
+
+<h2 id="modular-diorama">modular Diorama</h2>
+
+<p>I can think of two cases:</p>
+
+<ol>
+  <li>kit modellers<sup id="fnref:1:1"><a href="#fn:1" class="footnote">1</a></sup></li>
+  <li>travelling diorama:</li>
+</ol>
+
+<h2 id="personal">personal</h2>
+
+<ol>
+  <li>I was concepting a display for a community group that featured mainstream sci-fi models from TV/movie seires,</li>
+</ol>
+
+<ul>
+  <li>I want the model’s to indercate:
+** “On This Day” in-unverse events
+** X years till in-unverse event 
+** death of Actors from series.</li>
+  <li>the models were going to hanging from the ceeling because of limited space
+STALLED :(</li>
+</ul>
+
+<ol>
+  <li>
+    <p>I had started to desgin a Star trek DS9’s Domaon Battle using a mixer of models and <a href="">peeper ghost</a> effects
+STALLED :(</p>
+  </li>
+  <li>
+    <p>I was researching a computer-assited [rpg] with shelf-moving mintures
+and with explodable picese { see <a href="https://en.wikipedia.org/wiki/The_Incredible_Crash_Dummies">Crash Test Dummy toys</a>  }
+STALLED :(</p>
+  </li>
+</ol>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p>some models are never completed <a href="#fnref:1" class="reversefootnote">&#8617;</a> <a href="#fnref:1:1" class="reversefootnote">&#8617;<sup>2</sup></a></p>
+    </li>
+  </ol>
+</div>
+</description>
+		<content:encoded><![CDATA[<p>Currently <a href="https://en.wikipedia.org/wiki/Digital_Command_Control">DCC (Digital Command Control)</a> is beening used in <a href="https://en.wikipedia.org/wiki/Rail_transport_modelling">model railways setups</a>,
+but I can see other uses within the widder modelling communtiy</p>
+
+<ul>
+  <li>static Displays</li>
+  <li>modular diaramas</li>
+  <li>wargaming</li>
+</ul>
+
+<h2 id="static-displays">Static displays</h2>
+
+<p>there are modellers who put their “completed”<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup> models in display cases/cabinets, the models are usally group together.</p>
+
+<h2 id="modular-diorama">modular Diorama</h2>
+
+<p>I can think of two cases:</p>
+
+<ol>
+  <li>kit modellers<sup id="fnref:1:1"><a href="#fn:1" class="footnote">1</a></sup></li>
+  <li>travelling diorama:</li>
+</ol>
+
+<h2 id="personal">personal</h2>
+
+<ol>
+  <li>I was concepting a display for a community group that featured mainstream sci-fi models from TV/movie seires,</li>
+</ol>
+
+<ul>
+  <li>I want the model’s to indercate:
+** “On This Day” in-unverse events
+** X years till in-unverse event 
+** death of Actors from series.</li>
+  <li>the models were going to hanging from the ceeling because of limited space
+STALLED :(</li>
+</ul>
+
+<ol>
+  <li>
+    <p>I had started to desgin a Star trek DS9’s Domaon Battle using a mixer of models and <a href="">peeper ghost</a> effects
+STALLED :(</p>
+  </li>
+  <li>
+    <p>I was researching a computer-assited [rpg] with shelf-moving mintures
+and with explodable picese { see <a href="https://en.wikipedia.org/wiki/The_Incredible_Crash_Dummies">Crash Test Dummy toys</a>  }
+STALLED :(</p>
+  </li>
+</ol>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p>some models are never completed <a href="#fnref:1" class="reversefootnote">&#8617;</a> <a href="#fnref:1:1" class="reversefootnote">&#8617;<sup>2</sup></a></p>
+    </li>
+  </ol>
+</div>
+]]></content:encoded>
+   <enclosure url="{}-480p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-576p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-720p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-1800p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-480p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-576p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-720p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-1800p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   		<itunes:subtitle><p>Currently <a href="https://en.wikipedia.org/wiki/Digital_Command_Control">DCC (Digital Command Control)</a> is beening used in <a href="https://en.wikipedia.org/wiki/Rail_transport_modelling">model railways setups</a>,
+but I can see other uses within the widder modelling communtiy</p>
+
+<ul>
+  <li>static Displays</li>
+  <li>modular diaramas</li>
+  <li>wargaming</li>
+</ul>
+
+<h2 id="static-displays">Static displays</h2>
+
+<p>there are modellers who put their “completed”<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup> models in display cases/cabinets, the models are usally group together.</p>
+
+<h2 id="modular-diorama">modular Diorama</h2>
+
+<p>I can think of two cases:</p>
+
+<ol>
+  <li>kit modellers<sup id="fnref:1:1"><a href="#fn:1" class="footnote">1</a></sup></li>
+  <li>travelling diorama:</li>
+</ol>
+
+<h2 id="personal">personal</h2>
+
+<ol>
+  <li>I was concepting a display for a community group that featured mainstream sci-fi models from TV/movie seires,</li>
+</ol>
+
+<ul>
+  <li>I want the model’s to indercate:
+** “On This Day” in-unverse events
+** X years till in-unverse event 
+** death of Actors from series.</li>
+  <li>the models were going to hanging from the ceeling because of limited space
+STALLED :(</li>
+</ul>
+
+<ol>
+  <li>
+    <p>I had started to desgin a Star trek DS9’s Domaon Battle using a mixer of models and <a href="">peeper ghost</a> effects
+STALLED :(</p>
+  </li>
+  <li>
+    <p>I was researching a computer-assited [rpg] with shelf-moving mintures
+and with explodable picese { see <a href="https://en.wikipedia.org/wiki/The_Incredible_Crash_Dummies">Crash Test Dummy toys</a>  }
+STALLED :(</p>
+  </li>
+</ol>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p>some models are never completed <a href="#fnref:1" class="reversefootnote">&#8617;</a> <a href="#fnref:1:1" class="reversefootnote">&#8617;<sup>2</sup></a></p>
+    </li>
+  </ol>
+</div>
+</itunes:subtitle>
+		<itunes:summary><![CDATA[<p>Currently <a href="https://en.wikipedia.org/wiki/Digital_Command_Control">DCC (Digital Command Control)</a> is beening used in <a href="https://en.wikipedia.org/wiki/Rail_transport_modelling">model railways setups</a>,
+but I can see other uses within the widder modelling communtiy</p>
+
+<ul>
+  <li>static Displays</li>
+  <li>modular diaramas</li>
+  <li>wargaming</li>
+</ul>
+
+<h2 id="static-displays">Static displays</h2>
+
+<p>there are modellers who put their “completed”<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup> models in display cases/cabinets, the models are usally group together.</p>
+
+<h2 id="modular-diorama">modular Diorama</h2>
+
+<p>I can think of two cases:</p>
+
+<ol>
+  <li>kit modellers<sup id="fnref:1:1"><a href="#fn:1" class="footnote">1</a></sup></li>
+  <li>travelling diorama:</li>
+</ol>
+
+<h2 id="personal">personal</h2>
+
+<ol>
+  <li>I was concepting a display for a community group that featured mainstream sci-fi models from TV/movie seires,</li>
+</ol>
+
+<ul>
+  <li>I want the model’s to indercate:
+** “On This Day” in-unverse events
+** X years till in-unverse event 
+** death of Actors from series.</li>
+  <li>the models were going to hanging from the ceeling because of limited space
+STALLED :(</li>
+</ul>
+
+<ol>
+  <li>
+    <p>I had started to desgin a Star trek DS9’s Domaon Battle using a mixer of models and <a href="">peeper ghost</a> effects
+STALLED :(</p>
+  </li>
+  <li>
+    <p>I was researching a computer-assited [rpg] with shelf-moving mintures
+and with explodable picese { see <a href="https://en.wikipedia.org/wiki/The_Incredible_Crash_Dummies">Crash Test Dummy toys</a>  }
+STALLED :(</p>
+  </li>
+</ol>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p>some models are never completed <a href="#fnref:1" class="reversefootnote">&#8617;</a> <a href="#fnref:1:1" class="reversefootnote">&#8617;<sup>2</sup></a></p>
+    </li>
+  </ol>
+</div>
+]]></itunes:summary>
+		<itunes:author>Tom Sparks</itunes:author>
+		<itunes:image href="" />
+		<itunes:episode></itunes:episode>
+		<itunes:title>DCC (Digital Command Control) for non model railway uses</itunes:title>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration></itunes:duration>
+		<feedburner:origLink>https://tomasparks.name/miniatures/notebook/2018/08/dcc.html</feedburner:origLink>
+		</item>
+
+
+
+    <item>
+		<title>3D printer experiment</title>
+		<link>https://tomasparks.name/miniatures/notebook/2018/07/3dprinter-experiment.html</link>
+		<pubDate>Tue, 24 Jul 2018 00:00:00 +1000</pubDate>
+		<guid isPermaLink="false">https://tomasparks.name/miniatures/notebook/2018/07/3dprinter-experiment.html</guid>
+		<description><p>I bought a <a href="http://3dprintingsystems.com/products/3d-printers/up-mini-3d-printer/">Up Mini 3D printer</a> a few years ago (TODO: Year)
+I printed the standard test models, the <a href="https://en.wikipedia.org/wiki/Stanford_bunny">Stanford bunny</a> and the <a href="https://www.thingiverse.com/thing:53451">gear bearing</a></p>
+
+<p>I started to print objects from <a href="https://www.thingiverse.com">thingiverse</a> that I liked.
+But the models need too much post-cleaning with sharp tools<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup>.
+so I started looking for ways to eliminated as much of the post-clean up work as possible, I found slicing<sup id="fnref:2"><a href="#fn:2" class="footnote">2</a></sup> <a href="https://www.netfabb.com">software</a>, if the model was not pre-sliced.
+But it introducted a new headace, joining the parts<sup id="fnref:3"><a href="#fn:3" class="footnote">3</a></sup> by gluing/welding.
+The other reason for slicing was to hollow the model for adding <a href="electronics-and-me.md">electronics</a></p>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p>I hate wearing gloves. <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
+    </li>
+    <li id="fn:2">
+      <p>cutting up the model into parts. <a href="#fnref:2" class="reversefootnote">&#8617;</a></p>
+    </li>
+    <li id="fn:3">
+      <p>due to variation in heating/temperature and alignment while printing. <a href="#fnref:3" class="reversefootnote">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+</description>
+		<content:encoded><![CDATA[<p>I bought a <a href="http://3dprintingsystems.com/products/3d-printers/up-mini-3d-printer/">Up Mini 3D printer</a> a few years ago (TODO: Year)
+I printed the standard test models, the <a href="https://en.wikipedia.org/wiki/Stanford_bunny">Stanford bunny</a> and the <a href="https://www.thingiverse.com/thing:53451">gear bearing</a></p>
+
+<p>I started to print objects from <a href="https://www.thingiverse.com">thingiverse</a> that I liked.
+But the models need too much post-cleaning with sharp tools<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup>.
+so I started looking for ways to eliminated as much of the post-clean up work as possible, I found slicing<sup id="fnref:2"><a href="#fn:2" class="footnote">2</a></sup> <a href="https://www.netfabb.com">software</a>, if the model was not pre-sliced.
+But it introducted a new headace, joining the parts<sup id="fnref:3"><a href="#fn:3" class="footnote">3</a></sup> by gluing/welding.
+The other reason for slicing was to hollow the model for adding <a href="electronics-and-me.md">electronics</a></p>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p>I hate wearing gloves. <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
+    </li>
+    <li id="fn:2">
+      <p>cutting up the model into parts. <a href="#fnref:2" class="reversefootnote">&#8617;</a></p>
+    </li>
+    <li id="fn:3">
+      <p>due to variation in heating/temperature and alignment while printing. <a href="#fnref:3" class="reversefootnote">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+]]></content:encoded>
+   <enclosure url="{}-480p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-576p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-720p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-1800p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-480p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-576p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-720p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-1800p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   		<itunes:subtitle><p>I bought a <a href="http://3dprintingsystems.com/products/3d-printers/up-mini-3d-printer/">Up Mini 3D printer</a> a few years ago (TODO: Year)
+I printed the standard test models, the <a href="https://en.wikipedia.org/wiki/Stanford_bunny">Stanford bunny</a> and the <a href="https://www.thingiverse.com/thing:53451">gear bearing</a></p>
+
+<p>I started to print objects from <a href="https://www.thingiverse.com">thingiverse</a> that I liked.
+But the models need too much post-cleaning with sharp tools<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup>.
+so I started looking for ways to eliminated as much of the post-clean up work as possible, I found slicing<sup id="fnref:2"><a href="#fn:2" class="footnote">2</a></sup> <a href="https://www.netfabb.com">software</a>, if the model was not pre-sliced.
+But it introducted a new headace, joining the parts<sup id="fnref:3"><a href="#fn:3" class="footnote">3</a></sup> by gluing/welding.
+The other reason for slicing was to hollow the model for adding <a href="electronics-and-me.md">electronics</a></p>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p>I hate wearing gloves. <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
+    </li>
+    <li id="fn:2">
+      <p>cutting up the model into parts. <a href="#fnref:2" class="reversefootnote">&#8617;</a></p>
+    </li>
+    <li id="fn:3">
+      <p>due to variation in heating/temperature and alignment while printing. <a href="#fnref:3" class="reversefootnote">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+</itunes:subtitle>
+		<itunes:summary><![CDATA[<p>I bought a <a href="http://3dprintingsystems.com/products/3d-printers/up-mini-3d-printer/">Up Mini 3D printer</a> a few years ago (TODO: Year)
+I printed the standard test models, the <a href="https://en.wikipedia.org/wiki/Stanford_bunny">Stanford bunny</a> and the <a href="https://www.thingiverse.com/thing:53451">gear bearing</a></p>
+
+<p>I started to print objects from <a href="https://www.thingiverse.com">thingiverse</a> that I liked.
+But the models need too much post-cleaning with sharp tools<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup>.
+so I started looking for ways to eliminated as much of the post-clean up work as possible, I found slicing<sup id="fnref:2"><a href="#fn:2" class="footnote">2</a></sup> <a href="https://www.netfabb.com">software</a>, if the model was not pre-sliced.
+But it introducted a new headace, joining the parts<sup id="fnref:3"><a href="#fn:3" class="footnote">3</a></sup> by gluing/welding.
+The other reason for slicing was to hollow the model for adding <a href="electronics-and-me.md">electronics</a></p>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p>I hate wearing gloves. <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
+    </li>
+    <li id="fn:2">
+      <p>cutting up the model into parts. <a href="#fnref:2" class="reversefootnote">&#8617;</a></p>
+    </li>
+    <li id="fn:3">
+      <p>due to variation in heating/temperature and alignment while printing. <a href="#fnref:3" class="reversefootnote">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+]]></itunes:summary>
+		<itunes:author>Tom Sparks</itunes:author>
+		<itunes:image href="" />
+		<itunes:episode></itunes:episode>
+		<itunes:title>3D printer experiment</itunes:title>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration></itunes:duration>
+		<feedburner:origLink>https://tomasparks.name/miniatures/notebook/2018/07/3dprinter-experiment.html</feedburner:origLink>
+		</item>
+
+
+
+    <item>
+		<title>Electronics and me</title>
+		<link>https://tomasparks.name/miniatures/notebook/2018/06/electronics-and-me.html</link>
+		<pubDate>Wed, 27 Jun 2018 00:00:00 +1000</pubDate>
+		<guid isPermaLink="false">https://tomasparks.name/miniatures/notebook/2018/06/electronics-and-me.html</guid>
+		<description><p>I’ve had a group of bad experience build electronics circuits</p>
+
+<p>in the early 1990:</p>
+<ul>
+  <li>I a build a few circuits from a beginner electronic books</li>
+</ul>
+
+<div class="polaroid">
+<img class="u-photo" src="/miniatures/assets/images/DSE_funway_vol1.jpg" alt="Dick Smith Electronics Fun Way into Electronics Vol. 1" srcset=" /miniatures/assets/images/DSE_funway_vol1.jpg 388w" style="width:100%" />
+  <div class="container">
+    <p>Dick Smith Electronics Fun Way into Electronics Vol. 1</p>
+  </div>
+</div>
+
+<div class="polaroid">
+<img class="u-photo" src="/miniatures/assets/images/DSE_funway_vol2.jpg" alt="Dick Smith Electronics Fun Way into Electronics Vol. 2" srcset="    /miniatures/assets/images/resized/1024/DSE_funway_vol2.jpg 1024w,    /miniatures/assets/images/resized/768/DSE_funway_vol2.jpg 768w,    /miniatures/assets/images/resized/640/DSE_funway_vol2.jpg 640w, /miniatures/assets/images/DSE_funway_vol2.jpg 1125w" style="width:100%" />
+  <div class="container">
+    <p>Dick Smith Electronics Fun Way into Electronics Vol. 2</p>
+  </div>
+</div>
+
+<ul>
+  <li>At highschool i want to join electronic club, but the clubs teacher killed that dream.</li>
+</ul>
+
+<p>A few years ago: I relooked at getting back into electronics with the <a href="https://www.freetronics.com.au/collections/kits/products/experimenters-kit-for-arduino">arduino starter kit</a>,
+the LED lights requirements (polarity, resistors) killed it again for me.</p>
+
+<p>PS: I never wanted to learn how to <a href="https://www.makerspaces.com/how-to-solder/">solder</a>, the <a href="https://www.bareconductive.com">conductive paint</a> looked like my best option.
+PSS: I was also looking making my own <a href="https://en.wikipedia.org/wiki/Printed_circuit_board">printed circuit boards (PCB)</a>, I found <a href="https://pcbfx.com">heat-transfer method</a>
+I also found <a href="https://www.circuitscribe.com/">conductive ink pen</a> that could use in my pen plotter</p>
+</description>
+		<content:encoded><![CDATA[<p>I’ve had a group of bad experience build electronics circuits</p>
+
+<p>in the early 1990:</p>
+<ul>
+  <li>I a build a few circuits from a beginner electronic books</li>
+</ul>
+
+<div class="polaroid">
+<img class="u-photo" src="/miniatures/assets/images/DSE_funway_vol1.jpg" alt="Dick Smith Electronics Fun Way into Electronics Vol. 1" srcset=" /miniatures/assets/images/DSE_funway_vol1.jpg 388w" style="width:100%" />
+  <div class="container">
+    <p>Dick Smith Electronics Fun Way into Electronics Vol. 1</p>
+  </div>
+</div>
+
+<div class="polaroid">
+<img class="u-photo" src="/miniatures/assets/images/DSE_funway_vol2.jpg" alt="Dick Smith Electronics Fun Way into Electronics Vol. 2" srcset="    /miniatures/assets/images/resized/1024/DSE_funway_vol2.jpg 1024w,    /miniatures/assets/images/resized/768/DSE_funway_vol2.jpg 768w,    /miniatures/assets/images/resized/640/DSE_funway_vol2.jpg 640w, /miniatures/assets/images/DSE_funway_vol2.jpg 1125w" style="width:100%" />
+  <div class="container">
+    <p>Dick Smith Electronics Fun Way into Electronics Vol. 2</p>
+  </div>
+</div>
+
+<ul>
+  <li>At highschool i want to join electronic club, but the clubs teacher killed that dream.</li>
+</ul>
+
+<p>A few years ago: I relooked at getting back into electronics with the <a href="https://www.freetronics.com.au/collections/kits/products/experimenters-kit-for-arduino">arduino starter kit</a>,
+the LED lights requirements (polarity, resistors) killed it again for me.</p>
+
+<p>PS: I never wanted to learn how to <a href="https://www.makerspaces.com/how-to-solder/">solder</a>, the <a href="https://www.bareconductive.com">conductive paint</a> looked like my best option.
+PSS: I was also looking making my own <a href="https://en.wikipedia.org/wiki/Printed_circuit_board">printed circuit boards (PCB)</a>, I found <a href="https://pcbfx.com">heat-transfer method</a>
+I also found <a href="https://www.circuitscribe.com/">conductive ink pen</a> that could use in my pen plotter</p>
+]]></content:encoded>
+   <enclosure url="{}-480p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-576p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-720p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-1800p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-480p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-576p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-720p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-1800p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   		<itunes:subtitle><p>I’ve had a group of bad experience build electronics circuits</p>
+
+<p>in the early 1990:</p>
+<ul>
+  <li>I a build a few circuits from a beginner electronic books</li>
+</ul>
+
+<div class="polaroid">
+<img class="u-photo" src="/miniatures/assets/images/DSE_funway_vol1.jpg" alt="Dick Smith Electronics Fun Way into Electronics Vol. 1" srcset=" /miniatures/assets/images/DSE_funway_vol1.jpg 388w" style="width:100%" />
+  <div class="container">
+    <p>Dick Smith Electronics Fun Way into Electronics Vol. 1</p>
+  </div>
+</div>
+
+<div class="polaroid">
+<img class="u-photo" src="/miniatures/assets/images/DSE_funway_vol2.jpg" alt="Dick Smith Electronics Fun Way into Electronics Vol. 2" srcset="    /miniatures/assets/images/resized/1024/DSE_funway_vol2.jpg 1024w,    /miniatures/assets/images/resized/768/DSE_funway_vol2.jpg 768w,    /miniatures/assets/images/resized/640/DSE_funway_vol2.jpg 640w, /miniatures/assets/images/DSE_funway_vol2.jpg 1125w" style="width:100%" />
+  <div class="container">
+    <p>Dick Smith Electronics Fun Way into Electronics Vol. 2</p>
+  </div>
+</div>
+
+<ul>
+  <li>At highschool i want to join electronic club, but the clubs teacher killed that dream.</li>
+</ul>
+
+<p>A few years ago: I relooked at getting back into electronics with the <a href="https://www.freetronics.com.au/collections/kits/products/experimenters-kit-for-arduino">arduino starter kit</a>,
+the LED lights requirements (polarity, resistors) killed it again for me.</p>
+
+<p>PS: I never wanted to learn how to <a href="https://www.makerspaces.com/how-to-solder/">solder</a>, the <a href="https://www.bareconductive.com">conductive paint</a> looked like my best option.
+PSS: I was also looking making my own <a href="https://en.wikipedia.org/wiki/Printed_circuit_board">printed circuit boards (PCB)</a>, I found <a href="https://pcbfx.com">heat-transfer method</a>
+I also found <a href="https://www.circuitscribe.com/">conductive ink pen</a> that could use in my pen plotter</p>
+</itunes:subtitle>
+		<itunes:summary><![CDATA[<p>I’ve had a group of bad experience build electronics circuits</p>
+
+<p>in the early 1990:</p>
+<ul>
+  <li>I a build a few circuits from a beginner electronic books</li>
+</ul>
+
+<div class="polaroid">
+<img class="u-photo" src="/miniatures/assets/images/DSE_funway_vol1.jpg" alt="Dick Smith Electronics Fun Way into Electronics Vol. 1" srcset=" /miniatures/assets/images/DSE_funway_vol1.jpg 388w" style="width:100%" />
+  <div class="container">
+    <p>Dick Smith Electronics Fun Way into Electronics Vol. 1</p>
+  </div>
+</div>
+
+<div class="polaroid">
+<img class="u-photo" src="/miniatures/assets/images/DSE_funway_vol2.jpg" alt="Dick Smith Electronics Fun Way into Electronics Vol. 2" srcset="    /miniatures/assets/images/resized/1024/DSE_funway_vol2.jpg 1024w,    /miniatures/assets/images/resized/768/DSE_funway_vol2.jpg 768w,    /miniatures/assets/images/resized/640/DSE_funway_vol2.jpg 640w, /miniatures/assets/images/DSE_funway_vol2.jpg 1125w" style="width:100%" />
+  <div class="container">
+    <p>Dick Smith Electronics Fun Way into Electronics Vol. 2</p>
+  </div>
+</div>
+
+<ul>
+  <li>At highschool i want to join electronic club, but the clubs teacher killed that dream.</li>
+</ul>
+
+<p>A few years ago: I relooked at getting back into electronics with the <a href="https://www.freetronics.com.au/collections/kits/products/experimenters-kit-for-arduino">arduino starter kit</a>,
+the LED lights requirements (polarity, resistors) killed it again for me.</p>
+
+<p>PS: I never wanted to learn how to <a href="https://www.makerspaces.com/how-to-solder/">solder</a>, the <a href="https://www.bareconductive.com">conductive paint</a> looked like my best option.
+PSS: I was also looking making my own <a href="https://en.wikipedia.org/wiki/Printed_circuit_board">printed circuit boards (PCB)</a>, I found <a href="https://pcbfx.com">heat-transfer method</a>
+I also found <a href="https://www.circuitscribe.com/">conductive ink pen</a> that could use in my pen plotter</p>
+]]></itunes:summary>
+		<itunes:author>Tom Sparks</itunes:author>
+		<itunes:image href="" />
+		<itunes:episode></itunes:episode>
+		<itunes:title>Electronics and me</itunes:title>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration></itunes:duration>
+		<feedburner:origLink>https://tomasparks.name/miniatures/notebook/2018/06/electronics-and-me.html</feedburner:origLink>
+		</item>
+
+
+
+    <item>
+		<title>Pen Plotters</title>
+		<link>https://tomasparks.name/miniatures/notebook/1959/01/pen-plotter.html</link>
+		<pubDate>Thu, 01 Jan 1959 00:00:00 +1000</pubDate>
+		<guid isPermaLink="false">https://tomasparks.name/miniatures/notebook/1959/01/pen-plotter.html</guid>
+		<description><blockquote>
+  <p>The plotter is a computer printer for printing vector graphics.
+In the past, plotters were used in applications such as computer-aided design,
+though they have generally been replaced with wide-format conventional printers.
+A plotter gives a hard copy of the output. It draws pictures on a paper using a pen.
+Plotters are used to print designs of ships and machines, plans for buildings and so on.</p>
+</blockquote>
+</description>
+		<content:encoded><![CDATA[<blockquote>
+  <p>The plotter is a computer printer for printing vector graphics.
+In the past, plotters were used in applications such as computer-aided design,
+though they have generally been replaced with wide-format conventional printers.
+A plotter gives a hard copy of the output. It draws pictures on a paper using a pen.
+Plotters are used to print designs of ships and machines, plans for buildings and so on.</p>
+</blockquote>
+]]></content:encoded>
+   <enclosure url="{}-480p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-576p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-720p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-1800p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-480p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-576p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-720p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-1800p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   		<itunes:subtitle><blockquote>
+  <p>The plotter is a computer printer for printing vector graphics.
+In the past, plotters were used in applications such as computer-aided design,
+though they have generally been replaced with wide-format conventional printers.
+A plotter gives a hard copy of the output. It draws pictures on a paper using a pen.
+Plotters are used to print designs of ships and machines, plans for buildings and so on.</p>
+</blockquote>
+</itunes:subtitle>
+		<itunes:summary><![CDATA[<blockquote>
+  <p>The plotter is a computer printer for printing vector graphics.
+In the past, plotters were used in applications such as computer-aided design,
+though they have generally been replaced with wide-format conventional printers.
+A plotter gives a hard copy of the output. It draws pictures on a paper using a pen.
+Plotters are used to print designs of ships and machines, plans for buildings and so on.</p>
+</blockquote>
+]]></itunes:summary>
+		<itunes:author>Tom Sparks</itunes:author>
+		<itunes:image href="" />
+		<itunes:episode></itunes:episode>
+		<itunes:title>Pen Plotters</itunes:title>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration></itunes:duration>
+		<feedburner:origLink>https://tomasparks.name/miniatures/notebook/1959/01/pen-plotter.html</feedburner:origLink>
+		</item>
+
+
+
+    <item>
+		<title>Space 1889 themed diorama</title>
+		<link>https://tomasparks.name/miniatures/notebook/1889/01/space-1889-diorama.html</link>
+		<pubDate>Tue, 01 Jan 1889 00:00:16 +1012</pubDate>
+		<guid isPermaLink="false">https://tomasparks.name/miniatures/notebook/1889/01/space-1889-diorama.html</guid>
+		<description>
+<div class="polaroid">
+<img class="u-photo" src="/miniatures/assets/images/Space1889Logo.png" alt="Space 1889 logo" srcset=" /miniatures/assets/images/Space1889Logo.png 300w" style="width:100%" />
+  <div class="container">
+    <p>Space 1889 logo</p>
+  </div>
+</div>
+
+</description>
+		<content:encoded><![CDATA[
+<div class="polaroid">
+<img class="u-photo" src="/miniatures/assets/images/Space1889Logo.png" alt="Space 1889 logo" srcset=" /miniatures/assets/images/Space1889Logo.png 300w" style="width:100%" />
+  <div class="container">
+    <p>Space 1889 logo</p>
+  </div>
+</div>
+
+<blockquote>
+  <p>Role-Playing In A More Civilized Time. Everything Jules Verne should have written. Everything H. G. Wells could have written. Everything A. Conan Doyle thought of, but never published because it was too fantastic. Everything you need for adventures of the century! The Space 1889 role-playing game covers the exciting background of Victorian science fiction: ether flyers and Martian cloudships, the canals and ancient civilizations of the red planet, Venus’ swamps and dinosaurs, the honeycombed interior of Luna, and the thrills of inventions and inventors: the driving force behind Victoria’s multiworld empire!</p>
+</blockquote>
+
+]]></content:encoded>
+   <enclosure url="{}-480p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-576p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-720p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-1800p.mp4" length="{}" type="video/mp4">
+   <enclosure url="{}-480p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-576p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-720p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   <enclosure url="{}-1800p.mp4?torrent" length="{}" type="application/x-bittorrent">
+   		<itunes:subtitle>
+<div class="polaroid">
+<img class="u-photo" src="/miniatures/assets/images/Space1889Logo.png" alt="Space 1889 logo" srcset=" /miniatures/assets/images/Space1889Logo.png 300w" style="width:100%" />
+  <div class="container">
+    <p>Space 1889 logo</p>
+  </div>
+</div>
+
+</itunes:subtitle>
+		<itunes:summary><![CDATA[
+<div class="polaroid">
+<img class="u-photo" src="/miniatures/assets/images/Space1889Logo.png" alt="Space 1889 logo" srcset=" /miniatures/assets/images/Space1889Logo.png 300w" style="width:100%" />
+  <div class="container">
+    <p>Space 1889 logo</p>
+  </div>
+</div>
+
+]]></itunes:summary>
+		<itunes:author>Tom Sparks</itunes:author>
+		<itunes:image href="" />
+		<itunes:episode></itunes:episode>
+		<itunes:title>Space 1889 themed diorama</itunes:title>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration></itunes:duration>
+		<feedburner:origLink>https://tomasparks.name/miniatures/notebook/1889/01/space-1889-diorama.html</feedburner:origLink>
+		</item>
+
+
+
+
+</channel>
+</rss>

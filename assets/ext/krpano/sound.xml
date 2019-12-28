@@ -1,0 +1,25 @@
+﻿<krpano >
+
+	<plugin name="soundinterface"
+			url.flash="%SWFPATH%/plugins/soundinterface.swf"
+			url.html5="%SWFPATH%/plugins/soundinterface.js"
+			preload="true"
+			rootpath="%SWFPATH%/sound/"
+			volume="1.0"
+			mute="false"
+	/>
+
+	
+	<events name="sound_events" keep="true" onnewpano="check_sound(get(scene[get(xml.scene)].music));" />
+	
+	<action name="check_sound" scope="local" args="music" >
+		if(global.nowplaying == 'null', set(global.nowplaying, get(scene[get(xml.scene)].music); ););
+		
+		if(music != nowplaying, 
+			stopsound(get(nowplaying));
+			playsound(get(music), calc(music + '.mp3|' + music + '.ogg'), 0);
+			copy(global.nowplaying, music);
+		);
+	</action>
+
+</krpano>
